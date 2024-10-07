@@ -8,15 +8,12 @@
 
 [<img src="images/banners/github_badge.png"
 alt="Get it on GitHub"
-height="80"
 width="32%">](https://github.com/hardalgorithm/ParanoidsPal-PrivacyLock/releases)
 [<img src="images/banners/google_play_badge.png"
 alt="Get it on Google Play Market"
-height="80"
 width="32%">](https://play.google.com/store/apps/details?id=com.paranoid.privacylock)
 [<img src="images/banners/fdroid_badge.png"
 alt="Get it on FDroid"
-height="80"
 width="32%">](https://f-droid.org)
 
 <br />
