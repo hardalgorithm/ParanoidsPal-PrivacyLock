@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#E96E2A</color>
+    <color name="orange_dark">#FF7A40</color>
+    <color name="white">#FFF</color>
+    <color name="fade">#d1ecee</color>
+    <color name="green">#008B35</color>
+    <color name="light_green">#8BC3A1</color>
+<!--    <color name="light_blue_600">#FF039BE5</color>-->
+<!--    <color name="light_blue_900">#FF01579B</color>-->
+<!--    <color name="light_blue_A200">#FF40C4FF</color>-->
+<!--    <color name="light_blue_A400">#FF00B0FF</color>-->
+    <color name="black_overlay">#66000000</color>
+    <color name="black_permission_button">#292727</color>
+
+    <color name="main_background">#E4E4E4</color>
+    <color name="main_icon_color">#3b4547</color>
+
+    <color name="text_black_main_h1">#6C6665</color>
+    <color name="text_black_main_h2">#1F1D24</color>
+    <color name="text_gray_secondary">#7F7E7E</color>
+    <color name="text_light_white">#FBF3EE</color>
+
+
+    <color name="radio_button_border">#CAC4D0</color>
+
+    <color name="progress_permission_line">#787170</color>
+    <color name="text_surface">#4e4948</color>
+    <color name="main_card_background">#FAFAFA</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorPrimary">#335050</color>
+    <color name="colorOnPrimary">#fbf1ec</color>
+    <color name="card_setting">#D8D8D8</color>
+
+    <color name="colorOnSurface">#4e4948</color>
+
+    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+
+</resources>

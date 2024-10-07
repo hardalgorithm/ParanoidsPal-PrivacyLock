@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Willkommen an Bord</string>
+    <string name="permission_description">Sperren Sie Ihr Android-Gerät, wenn es nicht verwendet wird, um Ihre Apps und Daten zu schützen</string>
+    <string name="permission_text_grand">Administratorrechte gewähren</string>
+    <string name="policy_accept_text">Durch die Nutzung der App bestätigen Sie, dass Sie die Datenschutzerklärung gelesen haben</string>
+    <string name="privacy_policy">Datenschutzerklärung</string>
+    <string name="permission_motivation">Es ist wichtig, den Zugriff auf den Sperrbildschirm zu gewähren</string>
+    <string name="receiver_description">Erlauben Sie Privacy Lock, Ihren Bildschirm auszuschalten</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">Schaltfläche Einstellungen</string>
+    <string name="arrow_back_icon_btn_desc">Schaltfläche Zurück</string>
+    <string name="lock_screen_description">Testbeschreibung</string>
+    <string name="fab_start_timer">Schaltfläche Timer starten</string>
+    <string name="exit_dialog_menu">Dialogmenü beenden</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">App teilen</string>
+    <string name="shortcut_lock_short_label">Schnell-Sperre</string>
+    <string name="shortcut_lock_long_label">Gerät sperren</string>
+    <string name="sharing_text">Schützen Sie Ihre digitale Identität\nLaden Sie Paranoid\'s Pal - Privacy Lock herunter:\n\n</string>
+    <string name="invisible_element">unsichtbares Element</string>
+    <string name="card_item_battery_setting">* Batterieeinstellungen \n für Samsung•Xiaomi•Huawei usw. Geräte</string>
+    <string name="card_item_shortcut">App \nKurzbefehle</string>
+    <string name="card_item_tile_quick">Schnelleinstellungen für Kacheln \n</string>
+    <string name="text_before_start">Bitte wählen Sie eine Zeitoption vor dem Start</string>
+    <string name="text_after_start">Herzlichen Glückwunsch! \nNachdem der Bildschirm ausgeschaltet wurde, wird Ihr Gerät nach Ablauf des Timers gesperrt</string>
+    <string name="menu_delete_app">App deinstallieren</string>
+    <string name="setting_shake_lock">Schütteln und Sperren</string>
+    <string name="setting_shake_desc">Die Funktion schützt Sie sofort</string>
+    <string name="setting_about_us">Über uns</string>
+    <string name="setting_slow_shake">Langsam</string>
+    <string name="setting_mid_shake">Mittel</string>
+    <string name="setting_fast_shake">Schnell</string>
+    <string name="menu_dev_info">Entwickler HardAlgorithm</string>
+    <string name="setting_haptic">Haptisches Feedback</string>
+    <string name="setting_haptic_desc">Aktiviere eine Vibration bei Interaktionen</string>
+    <string name="setting_love_ua">❤️ aus der Ukraine</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Bienvenido a bordo</string>
+    <string name="permission_description">Bloquea tu dispositivo Android cuando no esté en uso para proteger tus aplicaciones y datos</string>
+    <string name="permission_text_grand">Conceder permiso de administrador</string>
+    <string name="policy_accept_text">Al usar la aplicación, reconoces haber leído la Política de Privacidad</string>
+    <string name="privacy_policy">Política de Privacidad</string>
+    <string name="permission_motivation">Es esencial conceder acceso para bloquear la pantalla</string>
+    <string name="receiver_description">Permite que Privacy Lock apague tu pantalla</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">botón de ajustes</string>
+    <string name="arrow_back_icon_btn_desc">botón de atrás</string>
+    <string name="lock_screen_description">desc prueba</string>
+    <string name="fab_start_timer">botón iniciar temporizador</string>
+    <string name="exit_dialog_menu">salir del menú de diálogo</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Compartir Aplicación</string>
+    <string name="shortcut_lock_short_label">Bloqueo Forzado</string>
+    <string name="shortcut_lock_long_label">Bloqueo Forzado del Dispositivo</string>
+    <string name="sharing_text">Protege Tu Identidad Digital\nDescarga Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">elemento invisible</string>
+    <string name="card_item_battery_setting">* Ajustes de batería \n para dispositivos Samsung•Xiaomi•Huawei etc.</string>
+    <string name="card_item_shortcut">Aplicación \nAccesos Directos</string>
+    <string name="card_item_tile_quick">Ajustes Rápidos del Azulejo \n</string>
+    <string name="text_before_start">Por favor, selecciona una opción de tiempo antes de comenzar</string>
+    <string name="text_after_start">¡Felicidades! \nDespués de que la pantalla se apague, tu dispositivo se bloqueará una vez que el temporizador expire</string>
+    <string name="menu_delete_app">Desinstalar aplicación</string>
+    <string name="setting_shake_lock">Agitar y Bloquear</string>
+    <string name="setting_shake_desc">La función te protegerá de inmediato</string>
+    <string name="setting_about_us">Sobre Nosotros</string>
+    <string name="setting_slow_shake">Lento</string>
+    <string name="setting_mid_shake">Medio</string>
+    <string name="setting_fast_shake">Rápido</string>
+    <string name="menu_dev_info">Desarrollador HardAlgorithm</string>
+    <string name="setting_haptic">Retroalimentación Háptica</string>
+    <string name="setting_haptic_desc">Habilita una vibración durante las interacciones</string>
+    <string name="setting_love_ua">❤️ desde Ucrania</string>
+
+</resources>

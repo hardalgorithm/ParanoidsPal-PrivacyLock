@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Tənzimləmələr</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nŞəxsi Kilid</string>
+    <string name="permission_title">Xoş gəlmisiniz</string>
+    <string name="permission_description">Tətbiqlərinizi və məlumatlarınızı qorumaq üçün Android cihazınızı istifadə etmədiyiniz zaman kilidə qoyun</string>
+    <string name="permission_text_grand">Admin icazəsi verin</string>
+    <string name="policy_accept_text">Tətbiqdən istifadə etməklə, Məxfilik Siyasətini oxuduğunuzu təsdiq edirsiniz</string>
+    <string name="privacy_policy">Məxfilik Siyasəti</string>
+    <string name="permission_motivation">Ekran kilidi üçün icazə vermək vacibdir</string>
+    <string name="receiver_description">Şəxsi Kilidin ekranınızı söndürməsinə icazə verin</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Şəxsi Kilid</string>
+    <string name="setting_icon_btn_desc">tənzimləmə düyməsi</string>
+    <string name="arrow_back_icon_btn_desc">geri düyməsi</string>
+    <string name="lock_screen_description">sınaq təsviri</string>
+    <string name="fab_start_timer">düymə timeri başla</string>
+    <string name="exit_dialog_menu">çıxış dialoq menyusu</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Tətbiqi Paylaş</string>
+    <string name="shortcut_lock_short_label">Məcburi Kilid</string>
+    <string name="shortcut_lock_long_label">Məcburi Kilidli Cihaz</string>
+    <string name="sharing_text">Rəqəmsal Kimliyinizi Qoruyun\nParanoid\'s Pal - Şəxsi Kilid tətbiqini yükləyin:\n\n</string>
+    <string name="invisible_element">görünməz element</string>
+    <string name="card_item_battery_setting">* Batareya tənzimləmələri \n Samsung•Xiaomi•Huawei və s. cihazlar üçün</string>
+    <string name="card_item_shortcut">Tətbiq \nQısayollar</string>
+    <string name="card_item_tile_quick">Tile Quick Settings \n</string>
+    <string name="text_before_start">Başlamazdan əvvəl bir zaman seçimi edin</string>
+    <string name="text_after_start">Təbriklər! \nEkran söndükdən sonra cihazınız timer bitdikdən sonra kilidə qoyulacaq</string>
+    <string name="menu_delete_app">Tətbiqi sil</string>
+    <string name="setting_shake_lock">Sarsıt və Kilidlə</string>
+    <string name="setting_shake_desc">Funksiya sizi dərhal qoruyacaq</string>
+    <string name="setting_about_us">Haqqımızda</string>
+    <string name="setting_slow_shake">Yavaş</string>
+    <string name="setting_mid_shake">Orta</string>
+    <string name="setting_fast_shake">Sürətli</string>
+    <string name="menu_dev_info">Tərtibatçı: HardAlgorithm</string>
+    <string name="setting_haptic">Haptik Geribildirim</string>
+    <string name="setting_haptic_desc">Əməliyyatlar zamanı titrəməni aktivləşdirin</string>
+    <string name="setting_love_ua">❤️ Ukraynadan sevgi ilə</string>
+
+</resources>

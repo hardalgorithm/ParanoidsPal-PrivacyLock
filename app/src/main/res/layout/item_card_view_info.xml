@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="start">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/materialCardView"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_margin="4dp"
+        app:cardBackgroundColor="@color/main_card_background"
+        app:cardCornerRadius="36dp">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ivInfo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"/>
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/permissionDot"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_gravity="start"
+            android:layout_margin="20dp"
+            android:src="@drawable/dot"
+            android:visibility="gone"
+            app:strokeColor="#450145"
+            app:strokeWidth="1dp" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tvTileInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:fontFamily="@font/spacemono_bold"
+            android:padding="4dp"
+            android:visibility="gone"
+            android:layout_marginBottom="4dp"
+            android:text="@string/card_item_tile_quick"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tvShortcutInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|center_vertical"
+            android:fontFamily="@font/spacemono_bold"
+            android:padding="4dp"
+            android:visibility="gone"
+            android:layout_marginStart="12dp"
+            android:textColor="@color/text_light_white"
+            android:text="@string/card_item_shortcut"
+            android:textSize="22sp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tvBatterySetting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|bottom"
+            android:fontFamily="@font/spacemono_regular"
+            android:padding="8dp"
+            android:visibility="gone"
+            android:layout_marginStart="12dp"
+            android:text="@string/card_item_battery_setting"
+            android:textSize="12sp" />
+    </com.google.android.material.card.MaterialCardView>
+
+</FrameLayout>

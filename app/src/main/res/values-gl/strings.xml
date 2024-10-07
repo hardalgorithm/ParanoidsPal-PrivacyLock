@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Benvido a bordo</string>
+    <string name="permission_description">Bloquea o teu dispositivo Android cando non estea en uso para protexer as túas apps e datos</string>
+    <string name="permission_text_grand">Conceder permiso de administrador</string>
+    <string name="policy_accept_text">Ao usar a app, recoñeces que leu a Política de Privacidade</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="permission_motivation">É esencial conceder acceso á pantalla de bloqueo</string>
+    <string name="receiver_description">Permitir a Privacy Lock para apagar a pantalla</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">configuración do botón</string>
+    <string name="arrow_back_icon_btn_desc">botón de regreso</string>
+    <string name="lock_screen_description">descrición de proba</string>
+    <string name="fab_start_timer">botón iniciar temporizador</string>
+    <string name="exit_dialog_menu">saír do menú de diálogo</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Compartir App</string>
+    <string name="shortcut_lock_short_label">Forzar Bloqueo</string>
+    <string name="shortcut_lock_long_label">Forzar Bloqueo do Dispositivo</string>
+    <string name="sharing_text">Protexe a túa Identidade Dixital\nDescarga Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">elemento invisible</string>
+    <string name="card_item_battery_setting">* Axustes da batería \n para dispositivos Samsung•Xioami•Huawei etc.</string>
+    <string name="card_item_shortcut">App \nAtallos</string>
+    <string name="card_item_tile_quick">Axustes Rápidos do Azulexo \n</string>
+    <string name="text_before_start">Por favor, selecciona unha opción de tempo antes de comezar</string>
+    <string name="text_after_start">Parabéns! \nDespois de que a pantalla se apague, o teu dispositivo estará bloqueado despois de que expire o temporizador</string>
+    <string name="menu_delete_app">Desinstalar app</string>
+    <string name="setting_shake_lock">Sacude e Bloquea</string>
+    <string name="setting_shake_desc">A función protegeráche inmediatamente</string>
+    <string name="setting_about_us">Sobre Nós</string>
+    <string name="setting_slow_shake">Lento</string>
+    <string name="setting_mid_shake">Medio</string>
+    <string name="setting_fast_shake">Rápido</string>
+    <string name="menu_dev_info">Desenvolvedor HardAlgorithm</string>
+    <string name="setting_haptic">Retroalimentación háptica</string>
+    <string name="setting_haptic_desc">Habilita unha vibración durante as interaccións</string>
+    <string name="setting_love_ua">❤️ desde Ucraína</string>
+
+
+</resources>

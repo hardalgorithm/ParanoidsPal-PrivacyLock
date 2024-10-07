@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Налады</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Сардэчна запрашаем</string>
+    <string name="permission_description">Заблакуйце свой Android-прылад, калі ён не выкарыстоўваецца, каб абараніць свае прыкладанні і дадзеныя</string>
+    <string name="permission_text_grand">Прадаставіць правы адміністратара</string>
+    <string name="policy_accept_text">Карыстаючыся прыкладаннем, вы пацвярджаеце, што прачыталі Політыку прыватнасці</string>
+    <string name="privacy_policy">Політыка прыватнасці</string>
+    <string name="permission_motivation">Важна прадаставіць доступ да экрана блакіроўкі</string>
+    <string name="receiver_description">Дазвольце Privacy Lock адключыць ваш экран</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">кнопка налад</string>
+    <string name="arrow_back_icon_btn_desc">кнопка назад</string>
+    <string name="lock_screen_description">тэставае апісанне</string>
+    <string name="fab_start_timer">кнопка старт таймера</string>
+    <string name="exit_dialog_menu">меню выхаду</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Падзяліцца прыкладаннем</string>
+    <string name="shortcut_lock_short_label">Прынудзіць блакіроўку</string>
+    <string name="shortcut_lock_long_label">Прынудзіць блакіроўку прылады</string>
+    <string name="sharing_text">Абароніце сваю лічбавую ідэнтычнасць\nСпампуйце Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">невідзімы элемент</string>
+    <string name="card_item_battery_setting">* Налады батарэі \n для прылад Samsung•Xiaomi•Huawei і г.д.</string>
+    <string name="card_item_shortcut">Прыкладанне \nСкарачэнні</string>
+    <string name="card_item_tile_quick">Tile Quick Settings \n</string>
+    <string name="text_before_start">Калі ласка, выберыце часовы варыянт перад пачаткам</string>
+    <string name="text_after_start">Віншую! \nПасля таго, як экран згасне, ваша прылада будзе заблакавана пасля заканчэння таймера</string>
+    <string name="menu_delete_app">Выдаліць прыкладанне</string>
+    <string name="setting_shake_lock">Страсі і замкні</string>
+    <string name="setting_shake_desc">Функцыя адразу абароніць вас</string>
+    <string name="setting_about_us">Пра нас</string>
+    <string name="setting_slow_shake">Медленно</string>
+    <string name="setting_mid_shake">Сярэдні</string>
+    <string name="setting_fast_shake">Хутка</string>
+    <string name="menu_dev_info">Распрацоўшчык HardAlgorithm</string>
+    <string name="setting_haptic">Гаптычны водгук</string>
+    <string name="setting_haptic_desc">Уключыць вібрацыю падчас узаемадзеянняў</string>
+    <string name="setting_love_ua">❤️ з Украіны</string>
+
+</resources>

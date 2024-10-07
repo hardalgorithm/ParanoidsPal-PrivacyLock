@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <item android:state_checked="true" android:drawable="@drawable/checked_radio_button_drawable" />-->
+<!--    <item android:state_checked="false" android:drawable="@drawable/unchecked_radio_button_drawable" />-->
+<!--</selector>-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/main_icon_color" />
+            <corners android:topLeftRadius="12dp" android:bottomLeftRadius="12dp" android:bottomRightRadius="36dp" android:topRightRadius="12dp" />
+            <stroke android:color="@color/orange" android:width="1dp"/>
+            <padding android:left="16dp" android:top="16dp" android:right="16dp" android:bottom="16dp"/>
+        </shape>
+    </item>
+    <item android:state_checked="false">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/main_card_background" />
+            <stroke android:color="@color/radio_button_border" android:width="1dp"/>
+            <corners android:topLeftRadius="12dp" android:bottomLeftRadius="12dp" android:bottomRightRadius="36dp" android:topRightRadius="12dp" />
+            <padding android:left="16dp" android:top="16dp" android:right="16dp" android:bottom="16dp"/>
+        </shape>
+    </item>
+</selector>

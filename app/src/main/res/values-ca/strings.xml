@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Configuració</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Benvingut a bord</string>
+    <string name="permission_description">Bloqueja el teu dispositiu Android quan no s’utilitzi per protegir les teves aplicacions i dades</string>
+    <string name="permission_text_grand">Concedeix permisos d’administrador</string>
+    <string name="policy_accept_text">En utilitzar l’aplicació, reconeixes haver llegit la Política de Privacitat</string>
+    <string name="privacy_policy">Política de Privacitat</string>
+    <string name="permission_motivation">És essencial concedir l’accés a la pantalla de bloqueig</string>
+    <string name="receiver_description">Permet que Privacy Lock apagui la teva pantalla</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">botó de configuració</string>
+    <string name="arrow_back_icon_btn_desc">botó enrere</string>
+    <string name="lock_screen_description">descripció de prova</string>
+    <string name="fab_start_timer">botó iniciar temporitzador</string>
+    <string name="exit_dialog_menu">menú d’eixida</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Comparteix l’aplicació</string>
+    <string name="shortcut_lock_short_label">Forçar bloqueig</string>
+    <string name="shortcut_lock_long_label">Forçar bloqueig del dispositiu</string>
+    <string name="sharing_text">Protegeix la teva identitat digital\nDescarrega Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">element invisible</string>
+    <string name="card_item_battery_setting">* Configuració de la bateria \n per a dispositius Samsung•Xiaomi•Huawei, etc.</string>
+    <string name="card_item_shortcut">Aplicació \nAccessos directes</string>
+    <string name="card_item_tile_quick">Configuració ràpida de les balises \n</string>
+    <string name="text_before_start">Si us plau, selecciona una opció de temps abans de començar</string>
+    <string name="text_after_start">Enhorabona! \nDesprés que la pantalla s’apagui, el teu dispositiu es bloquejarà després que el temporitzador expiri</string>
+    <string name="menu_delete_app">Desinstal·la l\'aplicació</string>
+    <string name="setting_shake_lock">Sacseja i Bloqueja</string>
+    <string name="setting_shake_desc">La funció et protegirà immediatament</string>
+    <string name="setting_about_us">Sobre Nosaltres</string>
+    <string name="setting_slow_shake">Lent</string>
+    <string name="setting_mid_shake">Mitjà</string>
+    <string name="setting_fast_shake">Ràpid</string>
+    <string name="menu_dev_info">Desenvolupador HardAlgorithm</string>
+    <string name="setting_haptic">Retroalimentació hàptica</string>
+    <string name="setting_haptic_desc">Habilita una vibració durant les interaccions</string>
+    <string name="setting_love_ua">❤️ des d\'Ucraïna</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Nustatymai</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivatumo Užraktas</string>
+    <string name="permission_title">Sveiki atvykę</string>
+    <string name="permission_description">Užrakinkite savo Android įrenginį, kai jis nenaudojamas, kad apsaugotumėte savo programas ir duomenis</string>
+    <string name="permission_text_grand">Suteikti administratoriaus leidimą</string>
+    <string name="policy_accept_text">Naudodami programėlę, pripažįstate, kad perskaitėte Privatumo politiką</string>
+    <string name="privacy_policy">Privatumo politika</string>
+    <string name="permission_motivation">Svarbu suteikti prieigą prie užrakinimo ekrano</string>
+    <string name="receiver_description">Leiskite Privatumo Užrakto programėlei išjungti jūsų ekraną</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privatumo Užraktas</string>
+    <string name="setting_icon_btn_desc">mygtuko nustatymas</string>
+    <string name="arrow_back_icon_btn_desc">mygtukas atgal</string>
+    <string name="lock_screen_description">testo aprašymas</string>
+    <string name="fab_start_timer">mygtukas pradėti laikmatį</string>
+    <string name="exit_dialog_menu">išeiti iš dialogo meniu</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Pasidalinti programėle</string>
+    <string name="shortcut_lock_short_label">Priverstinis užraktas</string>
+    <string name="shortcut_lock_long_label">Priverstinis įrenginio užraktas</string>
+    <string name="sharing_text">Apsaugokite savo skaitmeninę tapatybę\nAtsisiųskite Paranoid\'s Pal - Privatumo Užraktas:\n\n</string>
+    <string name="invisible_element">nematomas elementas</string>
+    <string name="card_item_battery_setting">* Baterijos nustatymai \n Samsung•Xiaomi•Huawei ir kt. įrenginiams</string>
+    <string name="card_item_shortcut">Programėlė \nTrumpikliai</string>
+    <string name="card_item_tile_quick">Greiti nustatymai \n</string>
+    <string name="text_before_start">Prašome pasirinkti laiko parinktį prieš pradedant</string>
+    <string name="text_after_start">Sveikiname! \nPo ekrano išsijungimo jūsų įrenginys bus užrakintas, kai laikmatis baigsis</string>
+    <string name="menu_delete_app">Pašalinti programą</string>
+    <string name="setting_shake_lock">Purtyti ir Užrakinti</string>
+    <string name="setting_shake_desc">Funkcija nedelsiant apsaugos jus</string>
+    <string name="setting_about_us">Apie Mus</string>
+    <string name="setting_slow_shake">Lėtas</string>
+    <string name="setting_mid_shake">Vidutinis</string>
+    <string name="setting_fast_shake">Greitas</string>
+    <string name="menu_dev_info">Kūrėjas HardAlgorithm</string>
+    <string name="setting_haptic">Haptinis grįžtamasis ryšys</string>
+    <string name="setting_haptic_desc">Įjungti vibraciją sąveikų metu</string>
+    <string name="setting_love_ua">❤️ iš Ukrainos</string>
+
+</resources>

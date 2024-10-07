@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Seaded</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Tere tulemast</string>
+    <string name="permission_description">Lukusta oma Android-seade, kui seda ei kasutata, et kaitsta oma rakendusi ja andmeid</string>
+    <string name="permission_text_grand">Anna administraatori luba</string>
+    <string name="policy_accept_text">Rakenduse kasutamisega tunnustad, et oled lugenud privaatsuspoliitikat</string>
+    <string name="privacy_policy">Privaatsuspoliitika</string>
+    <string name="permission_motivation">On oluline anda lukustuskuva ligipääs</string>
+    <string name="receiver_description">Luba Privacy Lockil sinu ekraan välja lülitada</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">nupu seaded</string>
+    <string name="arrow_back_icon_btn_desc">nupu tagasiminek</string>
+    <string name="lock_screen_description">testi kirjeldus</string>
+    <string name="fab_start_timer">nupu alustamise ajastaja</string>
+    <string name="exit_dialog_menu">välju dialoogimenüüst</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Jaga rakendust</string>
+    <string name="shortcut_lock_short_label">Sunni lukustus</string>
+    <string name="shortcut_lock_long_label">Sunni seadme lukustus</string>
+    <string name="sharing_text">Kaitse oma digitaalset identiteeti\nLaadi alla Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">nähtamatu element</string>
+    <string name="card_item_battery_setting">* Aku seaded \n Samsung•Xiaomi•Huawei jms seadmete jaoks</string>
+    <string name="card_item_shortcut">Rakendus \nLühidused</string>
+    <string name="card_item_tile_quick">Kiire seadistamise plaat \n</string>
+    <string name="text_before_start">Palun vali enne alustamist ajavalik</string>
+    <string name="text_after_start">Õnnitleme! \nPärast ekraani väljalülitumist lukustatakse sinu seade pärast ajastaja lõppemist</string>
+    <string name="menu_delete_app">Eemalda rakendus</string>
+    <string name="setting_shake_lock">Raputa ja Loo</string>
+    <string name="setting_shake_desc">Funktsioon kaitseb teid koheselt</string>
+    <string name="setting_about_us">Meist</string>
+    <string name="setting_slow_shake">Aeglane</string>
+    <string name="setting_mid_shake">Keskmine</string>
+    <string name="setting_fast_shake">Kiire</string>
+    <string name="menu_dev_info">Arendaja HardAlgorithm</string>
+    <string name="setting_haptic">Haptika tagasiside</string>
+    <string name="setting_haptic_desc">Luba vibratsioon interaktsioonide ajal</string>
+    <string name="setting_love_ua">❤️ Ukrainast</string>
+
+</resources>

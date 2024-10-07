@@ -1,0 +1,130 @@
+<resources>
+
+    <style name="Widget.Theme.ParanoidsPalPrivacyLock.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+
+    <style name="Paranoid.MaterialComponentsButton.Left" parent="@style/Widget.MaterialComponents.CompoundButton.RadioButton">
+        <item name="shapeAppearanceOverlay">@style/Paranoid.MaterialCardView.Left.Cut</item>
+    </style>
+
+    <style name="Paranoid.MaterialComponentsButton.Center" parent="@style/Widget.MaterialComponents.Button">
+        <item name="shapeAppearanceOverlay">@style/Paranoid.MaterialComponentsButton.Center.Cut
+        </item>
+    </style>
+
+    <style name="Paranoid.MaterialComponentsButton.LeftCenter" parent="@style/Widget.MaterialComponents.Button">
+        <item name="shapeAppearanceOverlay">@style/Paranoid.MaterialComponentsButton.Left.Center
+        </item>
+    </style>
+
+
+    <style name="Paranoid.MaterialComponentsButton.Left.Center" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">12dp</item>
+        <item name="cornerSizeTopLeft">36dp</item>
+        <item name="cornerSizeBottomRight">12dp</item>
+        <item name="cornerSizeBottomLeft">12dp</item>
+    </style>
+
+    <style name="Paranoid.MaterialComponentsButton.Center.Cut" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">12dp</item>
+        <item name="cornerSizeTopLeft">12dp</item>
+        <item name="cornerSizeBottomRight">12dp</item>
+        <item name="cornerSizeBottomLeft">12dp</item>
+    </style>
+
+    <style name="Paranoid.MaterialCardView.Left.Cut" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">12dp</item>
+        <item name="cornerSizeTopLeft">36dp</item>
+        <item name="cornerSizeBottomRight">12dp</item>
+        <item name="cornerSizeBottomLeft">36dp</item>
+    </style>
+
+    <style name="MyRadioButton">
+        <item name="android:layout_width">140dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="buttonCompat">@style/Paranoid.MaterialComponentsButton.LeftCenter</item>
+    </style>
+
+    <style name="TopLeftRadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:background">@drawable/radio_button_top_left</item>
+        <item name="android:button">@color/transparent</item>
+        <item name="android:layout_width">@dimen/radio_button_width</item>
+        <item name="android:layout_height">@dimen/radio_button_height</item>
+        <item name="android:buttonTint">@color/transparent</item>
+        <item name="android:gravity">center</item>
+        <item name="fontFamily">@font/graduate_regular</item>
+        <item name="android:textColor">@color/text_surface</item>
+    </style>
+
+    <style name="CenterRadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:background">@drawable/radio_button_center</item>
+        <item name="android:button">@color/transparent</item>
+        <item name="android:buttonTint">@color/transparent</item>
+        <item name="android:layout_width">@dimen/radio_button_width</item>
+        <item name="android:layout_height">@dimen/radio_button_height</item>
+        <item name="android:textColor">@color/text_surface</item>
+        <item name="android:gravity">center</item>
+        <item name="fontFamily">@font/graduate_regular</item>
+    </style>
+
+    <style name="TopRightRadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:background">@drawable/radio_button_top_right</item>
+        <item name="android:button">@color/transparent</item>
+        <item name="android:buttonTint">@color/transparent</item>
+        <item name="android:layout_width">@dimen/radio_button_width</item>
+        <item name="android:layout_height">@dimen/radio_button_height</item>
+        <item name="android:textColor">@color/text_surface</item>
+        <item name="android:gravity">center</item>
+        <item name="fontFamily">@font/graduate_regular</item>
+    </style>
+
+    <style name="BottomRightRadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:background">@drawable/radio_button_bottom_right</item>
+        <item name="android:button">@color/transparent</item>
+        <item name="android:buttonTint">@color/transparent</item>
+        <item name="android:textColor">@color/text_surface</item>
+        <item name="android:layout_width">@dimen/radio_button_width</item>
+        <item name="android:layout_height">@dimen/radio_button_height</item>
+        <item name="android:gravity">center</item>
+        <item name="fontFamily">@font/graduate_regular</item>
+    </style>
+
+    <style name="BottomLeftRadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:background">@drawable/radio_button_bottom_left</item>
+        <item name="android:button">@color/transparent</item>
+        <item name="android:buttonTint">@color/transparent</item>
+        <item name="android:layout_width">@dimen/radio_button_width</item>
+        <item name="android:layout_height">@dimen/radio_button_height</item>
+        <item name="android:textColor">@color/text_surface</item>
+        <item name="android:gravity">center</item>
+        <item name="fontFamily">@font/graduate_regular</item>
+    </style>
+
+
+    <style name="ShapeAppearanceSlider.Up" parent="@style/ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerSizeBottomLeft">8dp</item>
+        <item name="cornerSizeBottomRight">8dp</item>
+        <item name="cornerSizeTopLeft">28dp</item>
+        <item name="cornerSizeTopRight">28dp</item>
+    </style>
+
+    <style name="ShapeAppearanceSlider.Down" parent="@style/ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerSizeBottomLeft">28dp</item>
+        <item name="cornerSizeBottomRight">28dp</item>
+        <item name="cornerSizeTopLeft">8dp</item>
+        <item name="cornerSizeTopRight">8dp</item>
+    </style>
+
+    <style name="RoundedCornersDialog" parent="Theme.Material3.DayNight.Dialog">
+        <item name="dialogCornerRadius">28dp</item>
+
+    </style>
+
+
+</resources>

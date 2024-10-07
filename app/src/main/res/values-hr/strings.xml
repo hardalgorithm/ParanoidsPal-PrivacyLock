@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Postavke</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Dobrodošli</string>
+    <string name="permission_description">Zaključajte svoj Android uređaj kada se ne koristi kako biste zaštitili svoje aplikacije i podatke</string>
+    <string name="permission_text_grand">Dodijelite administratorsku dozvolu</string>
+    <string name="policy_accept_text">Korištenjem aplikacije prihvaćate Politiku privatnosti</string>
+    <string name="privacy_policy">Politika privatnosti</string>
+    <string name="permission_motivation">Bitno je odobriti pristup zaključavanju ekrana</string>
+    <string name="receiver_description">Omogućite Privacy Lock da isključi vaš ekran</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">postavke gumba</string>
+    <string name="arrow_back_icon_btn_desc">gumb za povratak</string>
+    <string name="lock_screen_description">opis testa</string>
+    <string name="fab_start_timer">gumb za pokretanje tajmera</string>
+    <string name="exit_dialog_menu">izađi iz dijaloga</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Podijeli aplikaciju</string>
+    <string name="shortcut_lock_short_label">Prisilno zaključavanje</string>
+    <string name="shortcut_lock_long_label">Prisilno zaključavanje uređaja</string>
+    <string name="sharing_text">Zaštitite svoju digitalnu identitet\nPreuzmite Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">nevidljivi element</string>
+    <string name="card_item_battery_setting">* Postavke baterije \n za uređaje Samsung•Xioami•Huawei itd.</string>
+    <string name="card_item_shortcut">Aplikacija \nPrečaci</string>
+    <string name="card_item_tile_quick">Brze postavke pločica \n</string>
+    <string name="text_before_start">Molimo odaberite opciju vremena prije početka</string>
+    <string name="text_after_start">Čestitamo! \nNakon što se ekran isključi, vaš uređaj će biti zaključan nakon što tajmer istekne</string>
+    <string name="menu_delete_app">Deinstaliraj aplikaciju</string>
+    <string name="setting_shake_lock">Pogodi i Zaključa</string>
+    <string name="setting_shake_desc">Funkcija će vas odmah zaštititi</string>
+    <string name="setting_about_us">O nama</string>
+    <string name="setting_slow_shake">Sporo</string>
+    <string name="setting_mid_shake">Srednje</string>
+    <string name="setting_fast_shake">Brzo</string>
+    <string name="menu_dev_info">Razvijač HardAlgorithm</string>
+    <string name="setting_haptic">Haptička povratna informacija</string>
+    <string name="setting_haptic_desc">Omogući vibraciju tijekom interakcija</string>
+    <string name="setting_love_ua">❤️ iz Ukrajine</string>
+
+</resources>

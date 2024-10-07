@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Benvenuto a bordo</string>
+    <string name="permission_description">Blocca il tuo dispositivo Android quando non è in uso per proteggere le tue app e i tuoi dati</string>
+    <string name="permission_text_grand">Concedi permessi di amministratore</string>
+    <string name="policy_accept_text">Utilizzando l\'app, accetti di aver letto l\'Informativa sulla Privacy</string>
+    <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="permission_motivation">È essenziale concedere l\'accesso allo schermo di blocco</string>
+    <string name="receiver_description">Permetti a Privacy Lock di spegnere lo schermo</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">pulsante impostazioni</string>
+    <string name="arrow_back_icon_btn_desc">pulsante indietro</string>
+    <string name="lock_screen_description">descrizione di prova</string>
+    <string name="fab_start_timer">pulsante avvia timer</string>
+    <string name="exit_dialog_menu">uscita menu di dialogo</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Condividi App</string>
+    <string name="shortcut_lock_short_label">Blocca Forzatamente</string>
+    <string name="shortcut_lock_long_label">Blocca Forzatamente il Dispositivo</string>
+    <string name="sharing_text">Proteggi la tua Identità Digitale\nScarica Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">elemento invisibile</string>
+    <string name="card_item_battery_setting">* Impostazioni batteria \n per dispositivi Samsung•Xiaomi•Huawei ecc.</string>
+    <string name="card_item_shortcut">App \nCollegamenti</string>
+    <string name="card_item_tile_quick">Impostazioni Rapide del Tile \n</string>
+    <string name="text_before_start">Seleziona un\'opzione temporale prima di iniziare</string>
+    <string name="text_after_start">Congratulazioni! \nDopo che lo schermo si spegne, il dispositivo verrà bloccato dopo che il timer è scaduto</string>
+    <string name="menu_delete_app">Disinstalla app</string>
+    <string name="setting_shake_lock">Scuoti e Blocca</string>
+    <string name="setting_shake_desc">La funzione ti proteggerà immediatamente</string>
+    <string name="setting_about_us">Chi Siamo</string>
+    <string name="setting_slow_shake">Lento</string>
+    <string name="setting_mid_shake">Medio</string>
+    <string name="setting_fast_shake">Veloce</string>
+    <string name="menu_dev_info">Sviluppatore HardAlgorithm</string>
+    <string name="setting_haptic">Feedback tattile</string>
+    <string name="setting_haptic_desc">Abilita una vibrazione durante le interazioni</string>
+    <string name="setting_love_ua">❤️ dall\'Ucraina</string>
+
+</resources>

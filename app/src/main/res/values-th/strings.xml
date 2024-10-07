@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">การตั้งค่า</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">ยินดีต้อนรับ</string>
+    <string name="permission_description">ล็อคอุปกรณ์ Android ของคุณเมื่อไม่ใช้งานเพื่อปกป้องแอพและข้อมูลของคุณ</string>
+    <string name="permission_text_grand">ให้สิทธิ์ผู้ดูแลระบบ</string>
+    <string name="policy_accept_text">การใช้แอพนี้ถือว่าคุณได้อ่านนโยบายความเป็นส่วนตัวแล้ว</string>
+    <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="permission_motivation">จำเป็นต้องให้สิทธิ์การเข้าถึงหน้าจอล็อค</string>
+    <string name="receiver_description">อนุญาตให้ Privacy Lock ปิดหน้าจอของคุณ</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">ปุ่มการตั้งค่า</string>
+    <string name="arrow_back_icon_btn_desc">ปุ่มกลับ</string>
+    <string name="lock_screen_description">คำบรรยายทดสอบ</string>
+    <string name="fab_start_timer">ปุ่มเริ่มตัวจับเวลา</string>
+    <string name="exit_dialog_menu">ออกจากเมนูสนทนา</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">แชร์แอพ</string>
+    <string name="shortcut_lock_short_label">บังคับล็อค</string>
+    <string name="shortcut_lock_long_label">บังคับล็อคอุปกรณ์</string>
+    <string name="sharing_text">ปกป้องตัวตนดิจิทัลของคุณ\nดาวน์โหลด Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">องค์ประกอบที่มองไม่เห็น</string>
+    <string name="card_item_battery_setting">* การตั้งค่าแบตเตอรี่ \n สำหรับอุปกรณ์ Samsung•Xiaomi•Huawei เป็นต้น</string>
+    <string name="card_item_shortcut">แอพ \nทางลัด</string>
+    <string name="card_item_tile_quick">การตั้งค่า Tile ด่วน \n</string>
+    <string name="text_before_start">กรุณาเลือกตัวเลือกเวลาก่อนเริ่มต้น</string>
+    <string name="text_after_start">ยินดีด้วย! \nหลังจากที่หน้าจอปิด อุปกรณ์ของคุณจะถูกล็อคหลังจากที่ตัวจับเวลาหมดอายุ</string>
+    <string name="menu_delete_app">ถอนการติดตั้งแอพ</string>
+    <string name="setting_shake_lock">เขย่าและล็อค</string>
+    <string name="setting_shake_desc">ฟังก์ชันจะปกป้องคุณทันที</string>
+    <string name="setting_about_us">เกี่ยวกับเรา</string>
+    <string name="setting_slow_shake">ช้า</string>
+    <string name="setting_mid_shake">ปานกลาง</string>
+    <string name="setting_fast_shake">เร็ว</string>
+    <string name="menu_dev_info">นักพัฒนา HardAlgorithm</string>
+    <string name="setting_haptic">การตอบสนองด้วยการสั่น</string>
+    <string name="setting_haptic_desc">เปิดใช้งานการสั่นในระหว่างการโต้ตอบ</string>
+    <string name="setting_love_ua">❤️ จากยูเครน</string>
+
+</resources>

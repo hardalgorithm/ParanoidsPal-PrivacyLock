@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">ברוך הבא</string>
+    <string name="permission_description">נעל את מכשיר ה-Android שלך כאשר הוא לא בשימוש כדי להגן על האפליקציות והנתונים שלך</string>
+    <string name="permission_text_grand">הענק הרשאות מנהל</string>
+    <string name="policy_accept_text">באמצעות האפליקציה, אתה מאשר שקראת את מדיניות הפרטיות</string>
+    <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="permission_motivation">חשוב להעניק גישה למסך הנעילה</string>
+    <string name="receiver_description">אפשר ל-Privacy Lock לכבות את המסך שלך</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">כפתור הגדרות</string>
+    <string name="arrow_back_icon_btn_desc">כפתור חזרה</string>
+    <string name="lock_screen_description">תיאור בדיקה</string>
+    <string name="fab_start_timer">כפתור התחלת טיימר</string>
+    <string name="exit_dialog_menu">צא מתפריט הדיאלוג</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">שתף אפליקציה</string>
+    <string name="shortcut_lock_short_label">נעילה בכוח</string>
+    <string name="shortcut_lock_long_label">נעילת המכשיר בכוח</string>
+    <string name="sharing_text">הגן על הזהות הדיגיטלית שלך\nהורד את Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">אלמנט לא נראה</string>
+    <string name="card_item_battery_setting">* הגדרות סוללה \n עבור מכשירים Samsung•Xiaomi•Huawei וכו\'</string>
+    <string name="card_item_shortcut">אפליקציה \nקיצורי דרך</string>
+    <string name="card_item_tile_quick">הגדרות טיל מהירות \n</string>
+    <string name="text_before_start">אנא בחר אפשרות זמן לפני ההתחלה</string>
+    <string name="text_after_start">מזל טוב! \nלאחר שהמסך יכבה, המכשיר שלך יינעל לאחר שיגמר הטיימר</string>
+    <string name="menu_delete_app">הסר אפליקציה</string>
+    <string name="setting_shake_lock">נענע ונעל</string>
+    <string name="setting_shake_desc">הפונקציה תגן עליך מיד</string>
+    <string name="setting_about_us">עלינו</string>
+    <string name="setting_slow_shake">איטי</string>
+    <string name="setting_mid_shake">בינוני</string>
+    <string name="setting_fast_shake">מהיר</string>
+    <string name="menu_dev_info">מפתח HardAlgorithm</string>
+    <string name="setting_haptic">פידבק חפצוני</string>
+    <string name="setting_haptic_desc">הפעל רטט במהלך אינטראקציות</string>
+    <string name="setting_love_ua">❤️ מאוקראינה</string>
+
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Vítejte na palubě</string>
+    <string name="permission_description">Zamkněte své zařízení Android, když se nepoužívá, abyste chránili své aplikace a data</string>
+    <string name="permission_text_grand">Přidělit administrátorská práva</string>
+    <string name="policy_accept_text">Používáním aplikace potvrzujete, že jste si přečetli Zásady ochrany osobních údajů</string>
+    <string name="privacy_policy">Zásady ochrany osobních údajů</string>
+    <string name="permission_motivation">Je nezbytné povolit přístup ke zámku obrazovky</string>
+    <string name="receiver_description">Povolit Privacy Lock, aby vypnul vaši obrazovku</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">nastavení tlačítka</string>
+    <string name="arrow_back_icon_btn_desc">tlačítko zpět</string>
+    <string name="lock_screen_description">test popis</string>
+    <string name="fab_start_timer">tlačítko spustit časovač</string>
+    <string name="exit_dialog_menu">ukončit dialogové menu</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Sdílet aplikaci</string>
+    <string name="shortcut_lock_short_label">Nucené zamknutí</string>
+    <string name="shortcut_lock_long_label">Nucené zamknutí zařízení</string>
+    <string name="sharing_text">Chraňte svou digitální identitu\nStáhněte si Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">neviditelný prvek</string>
+    <string name="card_item_battery_setting">* Nastavení baterie \n pro zařízení Samsung•Xiaomi•Huawei atd.</string>
+    <string name="card_item_shortcut">Aplikace \nZkratky</string>
+    <string name="card_item_tile_quick">Rychlé nastavení dlaždic \n</string>
+    <string name="text_before_start">Vyberte prosím možnost času před zahájením</string>
+    <string name="text_after_start">Gratulujeme! \nPo vypnutí obrazovky bude vaše zařízení uzamčeno po vypršení časovače</string>
+    <string name="menu_delete_app">Odebrat aplikaci</string>
+    <string name="setting_shake_lock">Zatřeste a Zamkněte</string>
+    <string name="setting_shake_desc">Funkce vás okamžitě ochrání</string>
+    <string name="setting_about_us">O nás</string>
+    <string name="setting_slow_shake">Pomalý</string>
+    <string name="setting_mid_shake">Střední</string>
+    <string name="setting_fast_shake">Rychlý</string>
+    <string name="menu_dev_info">Vývojář HardAlgorithm</string>
+    <string name="setting_haptic">Haptická odezva</string>
+    <string name="setting_haptic_desc">Povolit vibrace při interakcích</string>
+    <string name="setting_love_ua">❤️ z Ukrajiny</string>
+
+</resources>

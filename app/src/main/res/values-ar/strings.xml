@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nقفل الخصوصية</string>
+    <string name="permission_title">مرحبًا بك على متن السفينة</string>
+    <string name="permission_description">اقفل جهاز Android الخاص بك عندما لا يكون قيد الاستخدام لحماية تطبيقاتك وبياناتك</string>
+    <string name="permission_text_grand">امنح إذن المسؤول</string>
+    <string name="policy_accept_text">باستخدام التطبيق، تقر بقراءة سياسة الخصوصية</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="permission_motivation">من الضروري منح الإذن للوصول إلى قفل الشاشة</string>
+    <string name="receiver_description">اسمح لقفل الخصوصية بإيقاف تشغيل شاشتك</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">قفل الخصوصية</string>
+    <string name="setting_icon_btn_desc">زر الإعدادات</string>
+    <string name="arrow_back_icon_btn_desc">زر الرجوع</string>
+    <string name="lock_screen_description">وصف الاختبار</string>
+    <string name="fab_start_timer">زر بدء المؤقت</string>
+    <string name="exit_dialog_menu">قائمة حوار الخروج</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">مشاركة التطبيق</string>
+    <string name="shortcut_lock_short_label">قفل إجباري</string>
+    <string name="shortcut_lock_long_label">قفل الجهاز إجباري</string>
+    <string name="sharing_text">احمِ هويتك الرقمية\nحمل Paranoid\'s Pal - قفل الخصوصية:\n\n</string>
+    <string name="invisible_element">عنصر غير مرئي</string>
+    <string name="card_item_battery_setting">* إعدادات البطارية \n لأجهزة Samsung•Xiaomi•Huawei وغيرها</string>
+    <string name="card_item_shortcut">اختصارات التطبيق</string>
+    <string name="card_item_tile_quick">إعدادات البلاطة السريعة \n</string>
+    <string name="text_before_start">يرجى اختيار خيار الوقت قبل البدء</string>
+    <string name="text_after_start">تهانينا! \nبعد إطفاء الشاشة، سيتم قفل جهازك بعد انتهاء المؤقت</string>
+    <string name="menu_delete_app">إلغاء تثبيت التطبيق</string>
+    <string name="setting_shake_lock">الهز والقفل</string>
+    <string name="setting_shake_desc">ستحميك هذه الوظيفة على الفور</string>
+    <string name="setting_about_us">معلومات عنا</string>
+    <string name="setting_slow_shake">بطيء</string>
+    <string name="setting_mid_shake">متوسط</string>
+    <string name="setting_fast_shake">سريع</string>
+    <string name="menu_dev_info">المطور: HardAlgorithm</string>
+    <string name="setting_haptic">ردود الفعل اللمسية</string>
+    <string name="setting_haptic_desc">تفعيل الاهتزاز أثناء التفاعلات</string>
+    <string name="setting_love_ua">❤️ من أوكرانيا</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_permission_title">50sp</dimen>
+    <dimen name="margin_permission_title">48dp</dimen>
+    <dimen name="space_permission_top">48dp</dimen>
+    <dimen name="text_permission_policyagrenment">12sp</dimen>
+    <dimen name="text_permission_desc">16sp</dimen>
+    <dimen name="width_permission_shimmer_view">250dp</dimen>
+    <dimen name="height_permission_shimmer_view">250dp</dimen>
+    <dimen name="card_permission_wh">200dp</dimen>
+    <dimen name="text_permission_description">16sp</dimen>
+    <dimen name="small_corner">8dp</dimen>
+    <dimen name="green_horizontal_gradient_corner">18dp</dimen>
+    <dimen name="predictive_back_margin">8dp</dimen>
+    <dimen name="radio_button_width">120dp</dimen>
+    <dimen name="radio_button_height">100dp</dimen>
+    <dimen name="fab_action_play_pause">96dp</dimen>
+    <dimen name="space_from_rv_rb">14dp</dimen>
+    <dimen name="card_fab_corner_radius">18dp</dimen>
+</resources>

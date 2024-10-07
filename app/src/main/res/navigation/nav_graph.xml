@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/adminPermissionFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.paranoid.privacylock.ui.dashboard.DashboardFragment"
+        android:label="fragment_dashboard"
+        tools:layout="@layout/fragment_dashboard" >
+        <action
+            android:id="@+id/action_dashboardFragment_to_settingFragment"
+            app:destination="@id/settingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/adminPermissionFragment"
+        android:name="com.paranoid.privacylock.ui.permission.AdminPermissionFragment"
+        android:label="fragment_admin_permission"
+        tools:layout="@layout/fragment_admin_permission" /><action android:id="@+id/action_global_adminPermissionFragment" app:destination="@id/adminPermissionFragment"/>
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.paranoid.privacylock.ui.MainActivity"
+        android:label="MainActivity" />
+    <action android:id="@+id/action_global_dashboardFragment"
+        app:destination="@id/dashboardFragment"
+        app:popUpTo="@id/nav_graph"
+        app:popUpToInclusive="true"/>
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="com.paranoid.privacylock.ui.settings.SettingFragment"
+        android:label="fragment_setting"
+        tools:layout="@layout/fragment_setting" />
+
+</navigation>

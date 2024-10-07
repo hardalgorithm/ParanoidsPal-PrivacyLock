@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Witaj na pokładzie</string>
+    <string name="permission_description">Zablokuj swoje urządzenie z Androidem, gdy nie jest używane, aby chronić swoje aplikacje i dane</string>
+    <string name="permission_text_grand">Nadaj uprawnienia administratora</string>
+    <string name="policy_accept_text">Korzystając z aplikacji, potwierdzasz zapoznanie się z Polityką prywatności</string>
+    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="permission_motivation">Niezbędne jest nadanie dostępu do ekranu blokady</string>
+    <string name="receiver_description">Zezwól Privacy Lock na wyłączenie ekranu</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">ustawienie przycisku</string>
+    <string name="arrow_back_icon_btn_desc">przycisk powrotu</string>
+    <string name="lock_screen_description">opis testowy</string>
+    <string name="fab_start_timer">przycisk uruchom timer</string>
+    <string name="exit_dialog_menu">zamknij menu dialogowe</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Udostępnij aplikację</string>
+    <string name="shortcut_lock_short_label">Wymuś blokadę</string>
+    <string name="shortcut_lock_long_label">Wymuś blokadę urządzenia</string>
+    <string name="sharing_text">Chroń swoją cyfrową tożsamość\nPobierz Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">niewidoczny element</string>
+    <string name="card_item_battery_setting">* Ustawienia baterii \n dla urządzeń Samsung•Xioami•Huawei itp.</string>
+    <string name="card_item_shortcut">Aplikacja \nSkróty</string>
+    <string name="card_item_tile_quick">Skróty do płytek \n</string>
+    <string name="text_before_start">Proszę wybrać opcję czasu przed rozpoczęciem</string>
+    <string name="text_after_start">Gratulacje! \nPo wyłączeniu ekranu Twoje urządzenie zostanie zablokowane po upływie timera</string>
+    <string name="menu_delete_app">Odinstaluj aplikację</string>
+    <string name="setting_shake_lock">Wstrząśnij i Zablokuj</string>
+    <string name="setting_shake_desc">Funkcja natychmiast cię ochroni</string>
+    <string name="setting_about_us">O nas</string>
+    <string name="setting_slow_shake">Wolno</string>
+    <string name="setting_mid_shake">Średnio</string>
+    <string name="setting_fast_shake">Szybko</string>
+    <string name="menu_dev_info">Deweloper HardAlgorithm</string>
+    <string name="setting_haptic">Sprzężenie zwrotne dotykowe</string>
+    <string name="setting_haptic_desc">Włącz wibrację podczas interakcji</string>
+    <string name="setting_love_ua">❤️ z Ukrainy</string>
+
+</resources>

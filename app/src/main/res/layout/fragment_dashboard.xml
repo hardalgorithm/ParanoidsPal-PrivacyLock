@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:id="@+id/fragmentDashboard"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <FrameLayout
+        android:id="@+id/customAppBar"
+        android:layout_width="0dp"
+        android:layout_height="64dp"
+        android:padding="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/iconParanoid"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:src="@drawable/trace_1_" />
+
+        </LinearLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonSettings"
+            style="@style/Widget.Material3.Button.IconButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:contentDescription="@string/setting_icon_btn_desc"
+            app:icon="@drawable/baseline_settings_24"
+            app:iconSize="24dp"
+            app:iconTint="@color/text_black_main_h2" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/customAppBar">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="@font/spacemono_bold"
+            android:text="@string/text_logo_first"
+            android:textColor="@color/text_black_main_h2"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="@font/spacemono_bold"
+            android:text="@string/text_logo_second"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvInfoCard"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:clipToPadding="false"
+        app:cardBackgroundColor="@color/main_card_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+
+    <Space
+        android:id="@+id/space"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/space_from_rv_rb"
+        android:layout_weight="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rvInfoCard" />
+
+    <com.google.android.material.radiobutton.MaterialRadioButton
+        android:id="@+id/rbOneMinute"
+        style="@style/TopLeftRadioButton"
+        android:layout_marginStart="16dp"
+        android:lineHeight="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/rbThreeMinute" />
+
+    <com.google.android.material.radiobutton.MaterialRadioButton
+        android:id="@+id/rbThreeMinute"
+        style="@style/CenterRadioButton"
+        android:lineHeight="10dp"
+        app:layout_constraintEnd_toStartOf="@+id/rbFiveMinute"
+        app:layout_constraintStart_toEndOf="@+id/rbOneMinute"
+        app:layout_constraintTop_toTopOf="@+id/rbFiveMinute" />
+
+    <com.google.android.material.radiobutton.MaterialRadioButton
+        android:id="@+id/rbFiveMinute"
+        style="@style/TopRightRadioButton"
+        android:layout_marginEnd="16dp"
+        android:lineHeight="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/space" />
+
+    <com.google.android.material.radiobutton.MaterialRadioButton
+        android:id="@+id/rbFifteenMinutes"
+        style="@style/BottomLeftRadioButton"
+        android:layout_marginTop="8dp"
+        android:lineHeight="10dp"
+        app:layout_constraintStart_toStartOf="@+id/rbOneMinute"
+        app:layout_constraintTop_toBottomOf="@+id/rbOneMinute" />
+
+    <com.google.android.material.radiobutton.MaterialRadioButton
+        android:id="@+id/rbThirtyMinute"
+        style="@style/CenterRadioButton"
+        android:lineHeight="10dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toStartOf="@+id/rbSixtyMinute"
+        app:layout_constraintStart_toEndOf="@+id/rbFifteenMinutes"
+        app:layout_constraintTop_toBottomOf="@+id/rbThreeMinute" />
+
+    <com.google.android.material.radiobutton.MaterialRadioButton
+        android:id="@+id/rbSixtyMinute"
+        style="@style/BottomRightRadioButton"
+        android:layout_marginTop="8dp"
+        android:lineHeight="10dp"
+        app:layout_constraintEnd_toEndOf="@+id/rbFiveMinute"
+        app:layout_constraintTop_toBottomOf="@+id/rbFiveMinute" />
+
+    <com.facebook.shimmer.ShimmerFrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/tvApplicationVersion"
+        app:layout_constraintEnd_toEndOf="@+id/rbSixtyMinute"
+        app:layout_constraintStart_toStartOf="@+id/rbFifteenMinutes"
+        app:layout_constraintTop_toBottomOf="@+id/rbThirtyMinute"
+        app:shimmer_auto_start="false"
+        app:shimmer_base_alpha=".85"
+        app:shimmer_duration="3000">
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/mcInfoFrame"
+            style="@style/Widget.Material3.CardView.Outlined"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:elevation="0dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardCornerRadius="@dimen/card_fab_corner_radius"
+            app:layout_constraintBottom_toTopOf="@+id/tvApplicationVersion"
+            app:layout_constraintEnd_toEndOf="@+id/rbSixtyMinute"
+            app:layout_constraintStart_toStartOf="@+id/rbFifteenMinutes">
+
+            <TextView
+                android:id="@+id/tvHints"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="12dp"
+                android:breakStrategy="balanced"
+                android:fontFamily="@font/spacemono_regular"
+                android:text="@string/text_before_start"
+                android:textAppearance="@style/TextAppearance.Material3.LabelSmall"
+                android:textColor="@color/text_black_main_h2" />
+
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                style="@style/Base.Widget.Material3.FloatingActionButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end|center_vertical"
+                android:layout_margin="8dp"
+                app:fabCustomSize="@dimen/fab_action_play_pause"
+                android:contentDescription="@string/invisible_element"
+                android:visibility="invisible" />
+        </com.google.android.material.card.MaterialCardView>
+    </com.facebook.shimmer.ShimmerFrameLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floating_action_button"
+        style="@style/Base.Widget.Material3.FloatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|center_vertical"
+        android:layout_marginEnd="8dp"
+        app:fabCustomSize="@dimen/fab_action_play_pause"
+        android:backgroundTint="@color/orange"
+        android:contentDescription="@string/fab_start_timer"
+        app:layout_constraintBottom_toBottomOf="@+id/frameLayout"
+        app:layout_constraintEnd_toEndOf="@+id/frameLayout"
+        app:layout_constraintTop_toTopOf="@+id/frameLayout"
+        app:srcCompat="@drawable/play_to_pause"
+        app:tint="@color/text_black_main_h2" />
+
+    <TextView
+        android:id="@+id/tvApplicationVersion"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:alpha="0.8"
+        android:layout_marginBottom="4dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginEnd="56dp"
+        android:breakStrategy="balanced"
+        android:fontFamily="@font/spacemono_regular"
+        android:padding="8dp"
+        android:textAppearance="@style/TextAppearance.Material3.LabelSmall"
+        android:textColor="@color/text_gray_secondary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="@string/app_name" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

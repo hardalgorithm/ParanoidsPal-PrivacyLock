@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nVerrouillage de la vie privée</string>
+    <string name="permission_title">Bienvenue à bord</string>
+    <string name="permission_description">Verrouillez votre appareil Android lorsqu\'il n\'est pas utilisé pour protéger vos applications et vos données</string>
+    <string name="permission_text_grand">Accorder l\'autorisation d\'administrateur</string>
+    <string name="policy_accept_text">En utilisant l\'application, vous reconnaissez avoir lu la Politique de confidentialité</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="permission_motivation">Il est essentiel d\'accorder l\'accès pour le verrouillage de l\'écran</string>
+    <string name="receiver_description">Permettre à Privacy Lock d\'éteindre votre écran</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Verrouillage de la vie privée</string>
+    <string name="setting_icon_btn_desc">bouton des paramètres</string>
+    <string name="arrow_back_icon_btn_desc">bouton retour</string>
+    <string name="lock_screen_description">description de test</string>
+    <string name="fab_start_timer">bouton démarrer le minuteur</string>
+    <string name="exit_dialog_menu">menu de sortie de dialogue</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Partager l\'application</string>
+    <string name="shortcut_lock_short_label">Verrouillage forcé</string>
+    <string name="shortcut_lock_long_label">Verrouiller l\'appareil de force</string>
+    <string name="sharing_text">Protégez votre identité numérique\nTéléchargez Paranoid\'s Pal - Verrouillage de la vie privée :\n\n</string>
+    <string name="invisible_element">élément invisible</string>
+    <string name="card_item_battery_setting">* Paramètres de batterie \n pour les appareils Samsung•Xiaomi•Huawei etc.</string>
+    <string name="card_item_shortcut">Raccourcis \nd\'Application</string>
+    <string name="card_item_tile_quick">Raccourcis des Paramètres \nRapides</string>
+    <string name="text_before_start">Veuillez sélectionner une option de temps avant de commencer</string>
+    <string name="text_after_start">Félicitations! \nAprès l\'extinction de l\'écran, votre appareil sera verrouillé après l\'expiration du minuteur</string>
+    <string name="menu_delete_app">Désinstaller l\'application</string>
+    <string name="setting_shake_lock">Secouer et Verrouiller</string>
+    <string name="setting_shake_desc">La fonction vous protégera immédiatement</string>
+    <string name="setting_about_us">À Propos</string>
+    <string name="setting_slow_shake">Lent</string>
+    <string name="setting_mid_shake">Moyen</string>
+    <string name="setting_fast_shake">Rapide</string>
+    <string name="menu_dev_info">Développeur HardAlgorithm</string>
+    <string name="setting_haptic">Retour haptique</string>
+    <string name="setting_haptic_desc">Activer une vibration lors des interactions</string>
+    <string name="setting_love_ua">❤️ de l\'Ukraine</string>
+
+</resources>

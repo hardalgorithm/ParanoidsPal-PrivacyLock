@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nKunci Privasi</string>
+    <string name="permission_title">Selamat datang</string>
+    <string name="permission_description">Kunci peranti Android anda apabila tidak digunakan untuk melindungi aplikasi dan data anda</string>
+    <string name="permission_text_grand">Beri kebenaran pentadbir</string>
+    <string name="policy_accept_text">Dengan menggunakan aplikasi ini, anda mengakui telah membaca Polisi Privasi</string>
+    <string name="privacy_policy">Polisi Privasi</string>
+    <string name="permission_motivation">Penting untuk memberi akses kepada skrin kunci</string>
+    <string name="receiver_description">Benarkan Kunci Privasi untuk mematikan skrin anda</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Kunci Privasi</string>
+    <string name="setting_icon_btn_desc">tetapan butang</string>
+    <string name="arrow_back_icon_btn_desc">butang kembali</string>
+    <string name="lock_screen_description">penerangan ujian</string>
+    <string name="fab_start_timer">butang mula pemasa</string>
+    <string name="exit_dialog_menu">keluar dari menu dialog</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Kongsi Aplikasi</string>
+    <string name="shortcut_lock_short_label">Kunci Paksa</string>
+    <string name="shortcut_lock_long_label">Kunci Peranti Paksa</string>
+    <string name="sharing_text">Lindungi Identiti Digital Anda\nMuat Turun Paranoid\'s Pal - Kunci Privasi:\n\n</string>
+    <string name="invisible_element">elemen tidak kelihatan</string>
+    <string name="card_item_battery_setting">* Tetapan bateri \n untuk peranti Samsung•Xiaomi•Huawei dan lain-lain</string>
+    <string name="card_item_shortcut">Aplikasi \nJalan Pintas</string>
+    <string name="card_item_tile_quick">Tetapan Cepat Tile \n</string>
+    <string name="text_before_start">Sila pilih pilihan masa sebelum memulakan</string>
+    <string name="text_after_start">Tahniah! \nSelepas skrin dimatikan, peranti anda akan dikunci selepas pemasa tamat</string>
+    <string name="menu_delete_app">Nyahpasang aplikasi</string>
+    <string name="setting_shake_lock">Goncang dan Kunci</string>
+    <string name="setting_shake_desc">Fungsi ini akan melindungi anda dengan segera</string>
+    <string name="setting_about_us">Mengenai Kami</string>
+    <string name="setting_slow_shake">Lambat</string>
+    <string name="setting_mid_shake">Sederhana</string>
+    <string name="setting_fast_shake">Cepat</string>
+    <string name="menu_dev_info">Pembangun HardAlgorithm</string>
+    <string name="setting_haptic">Maklum Balas Haptik</string>
+    <string name="setting_haptic_desc">Aktifkan getaran semasa interaksi</string>
+    <string name="setting_love_ua">❤️ dari Ukraine</string>
+
+</resources>

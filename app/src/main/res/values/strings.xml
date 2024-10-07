@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Welcome aboard</string>
+    <string name="permission_description">Lock your Android device when not in use to safeguard your apps and data</string>
+    <string name="permission_text_grand">Grant admin permission</string>
+    <string name="policy_accept_text">By using the app, you acknowledge reading the Privacy Policy</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="permission_motivation">It\'s essential to grant for lock screen access</string>
+    <string name="receiver_description">Allow Privacy Lock to turn off your screen</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">button setting</string>
+    <string name="arrow_back_icon_btn_desc">button back</string>
+    <string name="lock_screen_description">test desc</string>
+    <string name="fab_start_timer">button start timer</string>
+    <string name="exit_dialog_menu">exit dialog menu</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Share App</string>
+    <string name="shortcut_lock_short_label">Force Lock</string>
+    <string name="shortcut_lock_long_label">Force Lock Device</string>
+    <string name="sharing_text">Protect Your Digital Identity\nDownload Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">invisible element</string>
+    <string name="card_item_battery_setting">* Battery settings \n for Samsung•Xioami•Huawei etc devices</string>
+    <string name="card_item_shortcut">App \nShortcuts</string>
+    <string name="card_item_tile_quick">Tile Quick Settings \n</string>
+    <string name="text_before_start">Please select a time option before start</string>
+    <string name="text_after_start">Congrats! \nAfter the screen turns off your device will be locked after the timer expires</string>
+    <string name="menu_delete_app">Uninstall app</string>
+    <string name="setting_shake_lock">Shake and Lock</string>
+    <string name="setting_shake_desc">Function will immediately protect you</string>
+    <string name="setting_about_us">About Us</string>
+    <string name="setting_slow_shake">Slow</string>
+    <string name="setting_mid_shake">Mid</string>
+    <string name="setting_fast_shake">Fast</string>
+    <string name="menu_dev_info">Developer       HardAlgorithm</string>
+    <string name="setting_haptic">Haptic Feedback</string>
+    <string name="setting_haptic_desc">Enable a vibration during interactions</string>
+    <string name="setting_love_ua">❤️ from Ukraine</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">سیٹنگز</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">خوش آمدید</string>
+    <string name="permission_description">اپنے اینڈرائیڈ ڈیوائس کو استعمال نہ ہونے پر لاک کریں تاکہ آپ کی ایپس اور ڈیٹا محفوظ رہ سکیں</string>
+    <string name="permission_text_grand">ایڈمن کی اجازت دیں</string>
+    <string name="policy_accept_text">ایپ کا استعمال کرکے، آپ رازداری کی پالیسی کو پڑھنے کی تصدیق کرتے ہیں</string>
+    <string name="privacy_policy">رازداری کی پالیسی</string>
+    <string name="permission_motivation">لاک اسکرین تک رسائی کے لیے اجازت دینا ضروری ہے</string>
+    <string name="receiver_description">Privacy Lock کو آپ کی اسکرین بند کرنے کی اجازت دیں</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">بٹن کی سیٹنگ</string>
+    <string name="arrow_back_icon_btn_desc">بٹن واپس</string>
+    <string name="lock_screen_description">ٹیسٹ کی تفصیل</string>
+    <string name="fab_start_timer">بٹن ٹائمر شروع کریں</string>
+    <string name="exit_dialog_menu">ڈائیلاگ مینو بند کریں</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">ایپ شیئر کریں</string>
+    <string name="shortcut_lock_short_label">فورس لاک</string>
+    <string name="shortcut_lock_long_label">فورس لاک ڈیوائس</string>
+    <string name="sharing_text">اپنی ڈیجیٹل شناخت کی حفاظت کریں\nParanoid\'s Pal - Privacy Lock ڈاؤن لوڈ کریں:\n\n</string>
+    <string name="invisible_element">غیر مرئی عنصر</string>
+    <string name="card_item_battery_setting">* بیٹری کی ترتیبات \n Samsung•Xioami•Huawei وغیرہ کے آلات کے لیے</string>
+    <string name="card_item_shortcut">ایپ \nشارٹ کٹس</string>
+    <string name="card_item_tile_quick">ٹائل فوری ترتیبات \n</string>
+    <string name="text_before_start">شروع کرنے سے پہلے براہ کرم وقت کا انتخاب کریں</string>
+    <string name="text_after_start">مبارک ہو! \nجب اسکرین بند ہو جائے گی، آپ کی ڈیوائس ٹائمر ختم ہونے کے بعد لاک ہو جائے گی</string>
+    <string name="menu_delete_app">ایپ انسٹال کریں</string>
+    <string name="setting_shake_lock">جھٹکنے اور لاک کریں</string>
+    <string name="setting_shake_desc">یہ فنکشن فوری طور پر آپ کی حفاظت کرے گا</string>
+    <string name="setting_about_us">ہمارے بارے میں</string>
+    <string name="setting_slow_shake">آہستہ</string>
+    <string name="setting_mid_shake">درمیانہ</string>
+    <string name="setting_fast_shake">تیز</string>
+    <string name="menu_dev_info">ڈویلپر HardAlgorithm</string>
+    <string name="setting_haptic">ہاپٹک فیڈبیک</string>
+    <string name="setting_haptic_desc">تعاملات کے دوران وائبریشن فعال کریں</string>
+    <string name="setting_love_ua">یوکرین سے ❤️</string>
+
+</resources>

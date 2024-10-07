@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Üdvözöljük</string>
+    <string name="permission_description">Zárja le Android eszközét, amikor nem használja, hogy megvédje alkalmazásait és adatait</string>
+    <string name="permission_text_grand">Adminisztrátori engedély megadása</string>
+    <string name="policy_accept_text">Az alkalmazás használatával elismeri, hogy elolvasta az Adatvédelmi szabályzatot</string>
+    <string name="privacy_policy">Adatvédelmi szabályzat</string>
+    <string name="permission_motivation">Fontos az érintőképernyő zárolási hozzáférés engedélyezése</string>
+    <string name="receiver_description">Engedélyezze a Privacy Lock alkalmazásnak, hogy kikapcsolja a képernyőt</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">gomb beállítás</string>
+    <string name="arrow_back_icon_btn_desc">vissza gomb</string>
+    <string name="lock_screen_description">teszt leírás</string>
+    <string name="fab_start_timer">gomb időzítő indítása</string>
+    <string name="exit_dialog_menu">kilépés a párbeszédmenüből</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Alkalmazás megosztása</string>
+    <string name="shortcut_lock_short_label">Kényszerített zárolás</string>
+    <string name="shortcut_lock_long_label">Kényszerített zárolás eszköz</string>
+    <string name="sharing_text">Védje digitális identitását\nTöltse le a Paranoid\'s Pal - Privacy Lock alkalmazást:\n\n</string>
+    <string name="invisible_element">láthatatlan elem</string>
+    <string name="card_item_battery_setting">* Akkumulátor beállítások \n Samsung•Xiaomi•Huawei stb. eszközökhöz</string>
+    <string name="card_item_shortcut">Alkalmazás \nGyorsbillentyűk</string>
+    <string name="card_item_tile_quick">Csempe gyorsbeállítások \n</string>
+    <string name="text_before_start">Kérjük, válasszon egy időopciót a kezdés előtt</string>
+    <string name="text_after_start">Gratulálunk! \nMiután a képernyő kikapcsol, az eszköz zárolva lesz az időzítő lejárta után</string>
+    <string name="menu_delete_app">Alkalmazás eltávolítása</string>
+    <string name="setting_shake_lock">Rázd meg és Zárd be</string>
+    <string name="setting_shake_desc">A funkció azonnal megvéd</string>
+    <string name="setting_about_us">Rólunk</string>
+    <string name="setting_slow_shake">Lassú</string>
+    <string name="setting_mid_shake">Közepes</string>
+    <string name="setting_fast_shake">Gyors</string>
+    <string name="menu_dev_info">Fejlesztő HardAlgorithm</string>
+    <string name="setting_haptic">Haptikus visszajelzés</string>
+    <string name="setting_haptic_desc">Vibráció engedélyezése interakciók során</string>
+    <string name="setting_love_ua">❤️ Ukrajnából</string>
+
+</resources>

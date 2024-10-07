@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">설정</string>
+    <string name="app_logo_text">Paranoid\'s Pal\n개인정보 보호 잠금</string>
+    <string name="permission_title">환영합니다</string>
+    <string name="permission_description">앱과 데이터를 보호하기 위해 사용하지 않을 때 Android 기기를 잠그세요</string>
+    <string name="permission_text_grand">관리자 권한 부여</string>
+    <string name="policy_accept_text">앱을 사용함으로써 개인정보 처리방침을 읽었음을 인정합니다</string>
+    <string name="privacy_policy">개인정보 처리방침</string>
+    <string name="permission_motivation">잠금 화면 접근을 허용하는 것이 중요합니다</string>
+    <string name="receiver_description">개인정보 보호 잠금이 화면을 끌 수 있도록 허용하세요</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">개인정보 보호 잠금</string>
+    <string name="setting_icon_btn_desc">버튼 설정</string>
+    <string name="arrow_back_icon_btn_desc">뒤로 버튼</string>
+    <string name="lock_screen_description">테스트 설명</string>
+    <string name="fab_start_timer">타이머 시작 버튼</string>
+    <string name="exit_dialog_menu">다이얼로그 메뉴 종료</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">앱 공유</string>
+    <string name="shortcut_lock_short_label">강제 잠금</string>
+    <string name="shortcut_lock_long_label">디바이스 강제 잠금</string>
+    <string name="sharing_text">디지털 아이덴티티를 보호하세요\nParanoid\'s Pal - 개인정보 보호 잠금을 다운로드하세요:\n\n</string>
+    <string name="invisible_element">보이지 않는 요소</string>
+    <string name="card_item_battery_setting">* 배터리 설정 \n Samsung•Xiaomi•Huawei 등 기기용</string>
+    <string name="card_item_shortcut">앱 \n단축키</string>
+    <string name="card_item_tile_quick">타일 빠른 설정 \n</string>
+    <string name="text_before_start">시작 전에 시간 옵션을 선택하세요</string>
+    <string name="text_after_start">축하합니다! \n화면이 꺼진 후 타이머가 만료되면 디바이스가 잠깁니다</string>
+    <string name="menu_delete_app">앱 삭제</string>
+    <string name="setting_shake_lock">흔들고 잠금</string>
+    <string name="setting_shake_desc">기능이 즉시 보호합니다</string>
+    <string name="setting_about_us">회사 소개</string>
+    <string name="setting_slow_shake">느림</string>
+    <string name="setting_mid_shake">중간</string>
+    <string name="setting_fast_shake">빠름</string>
+    <string name="menu_dev_info">개발자 HardAlgorithm</string>
+    <string name="setting_haptic">햅틱 피드백</string>
+    <string name="setting_haptic_desc">상호작용 중 진동을 활성화합니다</string>
+    <string name="setting_love_ua">❤️ 우크라이나에서</string>
+
+</resources>

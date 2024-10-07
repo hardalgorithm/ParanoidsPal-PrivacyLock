@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Welkom aan boord</string>
+    <string name="permission_description">Vergrendel je Android-apparaat wanneer het niet in gebruik is om je apps en gegevens te beschermen</string>
+    <string name="permission_text_grand">Adminrechten verlenen</string>
+    <string name="policy_accept_text">Door de app te gebruiken, bevestig je dat je het Privacybeleid hebt gelezen</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="permission_motivation">Het is essentieel om toegang tot het vergrendelscherm te verlenen</string>
+    <string name="receiver_description">Sta Privacy Lock toe om je scherm uit te schakelen</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">instellingsknop</string>
+    <string name="arrow_back_icon_btn_desc">terugknop</string>
+    <string name="lock_screen_description">test beschrijving</string>
+    <string name="fab_start_timer">start timer-knop</string>
+    <string name="exit_dialog_menu">afsluiten dialoogmenu</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">App delen</string>
+    <string name="shortcut_lock_short_label">Dwing vergrendeling af</string>
+    <string name="shortcut_lock_long_label">Dwing vergrendeling van apparaat af</string>
+    <string name="sharing_text">Bescherm je digitale identiteit\nDownload Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">onzichtbaar element</string>
+    <string name="card_item_battery_setting">* Batterijinstellingen \n voor Samsung•Xiaomi•Huawei enz. apparaten</string>
+    <string name="card_item_shortcut">App \nSnelkoppelingen</string>
+    <string name="card_item_tile_quick">Tile Snelle Instellingen \n</string>
+    <string name="text_before_start">Selecteer een tijdoptie voordat je begint</string>
+    <string name="text_after_start">Gefeliciteerd! \nNadat het scherm is uitgeschakeld, wordt je apparaat vergrendeld nadat de timer is verstreken</string>
+    <string name="menu_delete_app">Verwijder app</string>
+    <string name="setting_shake_lock">Schud en Vergrendel</string>
+    <string name="setting_shake_desc">De functie zal je onmiddellijk beschermen</string>
+    <string name="setting_about_us">Over Ons</string>
+    <string name="setting_slow_shake">Langzaam</string>
+    <string name="setting_mid_shake">Midden</string>
+    <string name="setting_fast_shake">Snel</string>
+    <string name="menu_dev_info">Ontwikkelaar HardAlgorithm</string>
+    <string name="setting_haptic">Haptische feedback</string>
+    <string name="setting_haptic_desc">Trilling inschakelen tijdens interacties</string>
+    <string name="setting_love_ua">❤️ uit Oekraïne</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="app_logo_text">دوست پارانوئید\nقفل حریم خصوصی</string>
+    <string name="permission_title">به سفری خوش آمدید</string>
+    <string name="permission_description">در زمانی که از دستگاه اندروید خود استفاده نمی‌کنید، آن را قفل کنید تا از برنامه‌ها و داده‌های خود محافظت کنید</string>
+    <string name="permission_text_grand">اجازه دسترسی ادمین را بدهید</string>
+    <string name="policy_accept_text">با استفاده از برنامه، شما تأیید می‌کنید که سیاست حفظ حریم خصوصی را خوانده‌اید</string>
+    <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="permission_motivation">اعطا کردن دسترسی به قفل صفحه نمایش ضروری است</string>
+    <string name="receiver_description">اجازه دهید قفل حریم خصوصی صفحه نمایش شما را خاموش کند</string>
+    <string name="text_logo_first">دوست پارانوئید</string>
+    <string name="text_logo_second">قفل حریم خصوصی</string>
+    <string name="setting_icon_btn_desc">دکمه تنظیمات</string>
+    <string name="arrow_back_icon_btn_desc">دکمه برگشت</string>
+    <string name="lock_screen_description">توضیحات آزمایشی</string>
+    <string name="fab_start_timer">دکمه شروع تایمر</string>
+    <string name="exit_dialog_menu">خروج از منوی دیالوگ</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">اشتراک‌گذاری برنامه</string>
+    <string name="shortcut_lock_short_label">قفل اجباری</string>
+    <string name="shortcut_lock_long_label">قفل دستگاه اجباری</string>
+    <string name="sharing_text">محافظت از هویت دیجیتال شما\nبرنامه دوست پارانوئید - قفل حریم خصوصی را دانلود کنید:\n\n</string>
+    <string name="invisible_element">عنصر نامرئی</string>
+    <string name="card_item_battery_setting">* تنظیمات باتری \n برای دستگاه‌های سامسونگ•شیائومی•هواوی و غیره</string>
+    <string name="card_item_shortcut">برنامه \nمیانبرها</string>
+    <string name="card_item_tile_quick">تنظیمات سریع کاشی \n</string>
+    <string name="text_before_start">لطفاً قبل از شروع، گزینه زمانی را انتخاب کنید</string>
+    <string name="text_after_start">تبریک! \nپس از خاموش شدن صفحه نمایش، دستگاه شما پس از پایان تایمر قفل خواهد شد</string>
+    <string name="menu_delete_app">حذف برنامه</string>
+    <string name="setting_shake_lock">لرزاندن و قفل کردن</string>
+    <string name="setting_shake_desc">این عملکرد به سرعت شما را محافظت خواهد کرد</string>
+    <string name="setting_about_us">درباره ما</string>
+    <string name="setting_slow_shake">کند</string>
+    <string name="setting_mid_shake">متوسط</string>
+    <string name="setting_fast_shake">سریع</string>
+    <string name="menu_dev_info">توسعه‌دهنده HardAlgorithm</string>
+    <string name="setting_haptic">بازخورد لمسی</string>
+    <string name="setting_haptic_desc">فعال‌سازی لرزش در تعاملات</string>
+    <string name="setting_love_ua">❤️ از اوکراین</string>
+
+</resources>

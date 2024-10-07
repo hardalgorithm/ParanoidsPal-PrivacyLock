@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Καλώς ήρθατε</string>
+    <string name="permission_description">Κλείστε τη συσκευή Android σας όταν δεν τη χρησιμοποιείτε για να προστατεύσετε τις εφαρμογές και τα δεδομένα σας</string>
+    <string name="permission_text_grand">Χορηγήστε δικαιώματα διαχειριστή</string>
+    <string name="policy_accept_text">Χρησιμοποιώντας την εφαρμογή, αναγνωρίζετε ότι έχετε διαβάσει την Πολιτική Απορρήτου</string>
+    <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="permission_motivation">Είναι απαραίτητο να χορηγήσετε πρόσβαση στην οθόνη κλειδώματος</string>
+    <string name="receiver_description">Επιτρέψτε στο Privacy Lock να σβήσει την οθόνη σας</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">κουμπί ρυθμίσεων</string>
+    <string name="arrow_back_icon_btn_desc">κουμπί πίσω</string>
+    <string name="lock_screen_description">περιγραφή δοκιμής</string>
+    <string name="fab_start_timer">κουμπί έναρξης χρονομέτρου</string>
+    <string name="exit_dialog_menu">έξοδος από το μενού διαλόγου</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Μοιραστείτε την εφαρμογή</string>
+    <string name="shortcut_lock_short_label">Αναγκαστική Κλείδωμα</string>
+    <string name="shortcut_lock_long_label">Αναγκαστική Κλείδωμα Συσκευής</string>
+    <string name="sharing_text">Προστατέψτε την Ψηφιακή Σας Ταυτότητα\nΚατεβάστε το Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">αόρατο στοιχείο</string>
+    <string name="card_item_battery_setting">* Ρυθμίσεις μπαταρίας \n για συσκευές Samsung•Xiaomi•Huawei κ.λπ.</string>
+    <string name="card_item_shortcut">Εφαρμογή \nΣυντομεύσεις</string>
+    <string name="card_item_tile_quick">Γρήγορες Ρυθμίσεις Κεραμιδιών \n</string>
+    <string name="text_before_start">Παρακαλώ επιλέξτε μια επιλογή χρόνου πριν την έναρξη</string>
+    <string name="text_after_start">Συγχαρητήρια! \nΑφού σβήσει η οθόνη, η συσκευή σας θα κλειδώσει μετά την λήξη του χρονομέτρου</string>
+    <string name="menu_delete_app">Απεγκατάσταση εφαρμογής</string>
+    <string name="setting_shake_lock">Κούνημα και Κλείδωμα</string>
+    <string name="setting_shake_desc">Η λειτουργία θα σας προστατεύσει αμέσως</string>
+    <string name="setting_about_us">Σχετικά με Εμάς</string>
+    <string name="setting_slow_shake">Αργό</string>
+    <string name="setting_mid_shake">Μέτριο</string>
+    <string name="setting_fast_shake">Γρήγορο</string>
+    <string name="menu_dev_info">Αναπτυξιακός HardAlgorithm</string>
+    <string name="setting_haptic">Ανάδραση αφής</string>
+    <string name="setting_haptic_desc">Ενεργοποιήστε τη δόνηση κατά τη διάρκεια των αλληλεπιδράσεων</string>
+    <string name="setting_love_ua">❤️ από την Ουκρανία</string>
+
+</resources>

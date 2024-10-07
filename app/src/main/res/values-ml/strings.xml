@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">സെറ്റിങ്ങുകൾ</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nപ്രൈവസി ലോക്ക്</string>
+    <string name="permission_title">സ്വാഗതം</string>
+    <string name="permission_description">നിങ്ങളുടെ ആൻഡ്രോയിഡ് ഉപകരണം ഉപയോഗം ഇല്ലാത്തപ്പോൾ ലോക്ക് ചെയ്ത് നിങ്ങളുടെ ആപ്സ് ആൻഡ് ഡാറ്റ പരിരക്ഷിക്കുക</string>
+    <string name="permission_text_grand">അഡ്മിൻ അനുവാദം അനുവദിക്കുക</string>
+    <string name="policy_accept_text">ആപ്പ് ഉപയോഗിക്കുകയിലൂടെ, നിങ്ങൾ പ്രൈവസി പോളിസി വായിച്ചെന്ന് അംഗീകരിക്കുന്നു</string>
+    <string name="privacy_policy">പ്രൈവസി പോളിസി</string>
+    <string name="permission_motivation">ലോക്ക് സ്ക്രീൻ ആക്സസ് അനുവദിക്കുക നിർണായകമാണ്</string>
+    <string name="receiver_description">പ്രൈവസി ലോക്ക് നിങ്ങളുടെ സ്ക്രീൻ ഓഫ് ചെയ്യാൻ അനുവദിക്കുക</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">പ്രൈവസി ലോക്ക്</string>
+    <string name="setting_icon_btn_desc">ബട്ടൺ സെറ്റിങ്ങുകൾ</string>
+    <string name="arrow_back_icon_btn_desc">ബട്ടൺ മടങ്ങുക</string>
+    <string name="lock_screen_description">ടെസ്റ്റ് വിവരണം</string>
+    <string name="fab_start_timer">ബട്ടൺ ടൈമർ ആരംഭിക്കുക</string>
+    <string name="exit_dialog_menu">ഡയലോഗ് മെനുവിൽ നിന്ന് പുറത്ത് പോവുക</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">ആപ്പ് പങ്കിടുക</string>
+    <string name="shortcut_lock_short_label">ഫോഴ്‌സ് ലോക്ക്</string>
+    <string name="shortcut_lock_long_label">ഫോഴ്‌സ് ലോക്ക് ഉപകരണം</string>
+    <string name="sharing_text">നിങ്ങളുടെ ഡിജിറ്റൽ ഐഡന്റിറ്റിയെ സംരക്ഷിക്കുക\nParanoid\'s Pal - പ്രൈവസി ലോക്ക് ഡൗൺലോഡ് ചെയ്യുക:\n\n</string>
+    <string name="invisible_element">അദൃശ്യ ഘടകം</string>
+    <string name="card_item_battery_setting">* ബാറ്ററി സെറ്റിങ്ങുകൾ \n Samsung•Xiaomi•Huawei തുടങ്ങിയ ഉപകരണങ്ങൾക്ക്</string>
+    <string name="card_item_shortcut">ആപ്പ് \nഷോർട്ട്കട്ടുകൾ</string>
+    <string name="card_item_tile_quick">ടൈൽ ക്വിക്ക് സെറ്റിംഗുകൾ \n</string>
+    <string name="text_before_start">തുടങ്ങുന്നതിന് മുമ്പ് ഒരു സമയം ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക</string>
+    <string name="text_after_start">അഭിനന്ദനങ്ങൾ! \nസ്ക്രീൻ ഓഫ് ചെയ്തതിന് ശേഷം ടൈമർ അവസാനിക്കുന്നതോടെ നിങ്ങളുടെ ഉപകരണം ലോക്ക് ചെയ്യപ്പെടും</string>
+    <string name="menu_delete_app">ആപ്പുകൾ നീക്കം ചെയ്യുക</string>
+    <string name="setting_shake_lock">കോപ്യവും കിടപ്പിലും</string>
+    <string name="setting_shake_desc">ഫംഗ്ഷൻ നിങ്ങളെ ഉടനെ സംരക്ഷിക്കും</string>
+    <string name="setting_about_us">ഞങ്ങളെ കുറിച്ച്</string>
+    <string name="setting_slow_shake">ഇതൃഗമാർ</string>
+    <string name="setting_mid_shake">മധ്യ</string>
+    <string name="setting_fast_shake">വേഗം</string>
+    <string name="menu_dev_info">വികസകൻ HardAlgorithm</string>
+    <string name="setting_haptic">ഹാപ്റ്റിക് പ്രതികരണം</string>
+    <string name="setting_haptic_desc">ഇടപാടുകൾക്കിടെ വൈബ്രേഷൻ പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="setting_love_ua">❤️ യുക്രൈനിൽ നിന്ന്</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">設定</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nプライバシーロック</string>
+    <string name="permission_title">ようこそ</string>
+    <string name="permission_description">アプリやデータを保護するために、使用していないときはAndroidデバイスをロックしてください</string>
+    <string name="permission_text_grand">管理者権限を付与</string>
+    <string name="policy_accept_text">アプリを使用することで、プライバシーポリシーを読んだことを認めます</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="permission_motivation">ロック画面アクセスを付与することが重要です</string>
+    <string name="receiver_description">プライバシーロックに画面をオフにする許可を与えてください</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">プライバシーロック</string>
+    <string name="setting_icon_btn_desc">設定ボタン</string>
+    <string name="arrow_back_icon_btn_desc">戻るボタン</string>
+    <string name="lock_screen_description">テスト説明</string>
+    <string name="fab_start_timer">タイマースタートボタン</string>
+    <string name="exit_dialog_menu">ダイアログメニューを終了</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">アプリを共有</string>
+    <string name="shortcut_lock_short_label">強制ロック</string>
+    <string name="shortcut_lock_long_label">デバイスを強制ロック</string>
+    <string name="sharing_text">デジタルアイデンティティを保護\nParanoid\'s Pal - プライバシーロックをダウンロード:\n\n</string>
+    <string name="invisible_element">見えない要素</string>
+    <string name="card_item_battery_setting">* バッテリー設定 \n Samsung•Xiaomi•Huawei などのデバイス用</string>
+    <string name="card_item_shortcut">アプリ \nショートカット</string>
+    <string name="card_item_tile_quick">クイック設定タイル \n</string>
+    <string name="text_before_start">開始前に時間オプションを選択してください</string>
+    <string name="text_after_start">おめでとうございます！ \n画面がオフになると、タイマーが終了した後にデバイスがロックされます</string>
+    <string name="menu_delete_app">アプリをアンインストール</string>
+    <string name="setting_shake_lock">シェイクしてロック</string>
+    <string name="setting_shake_desc">この機能はすぐにあなたを保護します</string>
+    <string name="setting_about_us">私たちについて</string>
+    <string name="setting_slow_shake">遅い</string>
+    <string name="setting_mid_shake">中間</string>
+    <string name="setting_fast_shake">速い</string>
+    <string name="menu_dev_info">開発者 HardAlgorithm</string>
+    <string name="setting_haptic">ハプティックフィードバック</string>
+    <string name="setting_haptic_desc">操作中に振動を有効にする</string>
+    <string name="setting_love_ua">❤️ ウクライナから</string>
+
+</resources>

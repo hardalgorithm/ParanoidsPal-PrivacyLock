@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">48dp</dimen>
+
+    <dimen name="radio_button_width">120dp</dimen>
+    <dimen name="radio_button_height">100dp</dimen>
+</resources>

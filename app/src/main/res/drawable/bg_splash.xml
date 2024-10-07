@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="@color/white" />
+    </item>
+
+    <item
+        android:gravity="center">
+        <shape
+            android:shape="oval">
+            <size
+                android:width="130dp"
+                android:height="130dp" />
+            <solid android:color="@color/orange" />
+        </shape>
+    </item>
+
+    <item
+        android:width="120dp"
+        android:height="120dp"
+        android:gravity="center"
+        android:bottom="30dp">
+        <bitmap
+            android:gravity="fill"
+            android:src="@drawable/icon_complete" />
+    </item>
+</layer-list>

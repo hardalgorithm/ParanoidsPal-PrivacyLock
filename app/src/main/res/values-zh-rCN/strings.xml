@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">设置</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">欢迎加入</string>
+    <string name="permission_description">当您的 Android 设备不使用时锁定它，以保护您的应用程序和数据</string>
+    <string name="permission_text_grand">授予管理员权限</string>
+    <string name="policy_accept_text">使用此应用程序即表示您已阅读隐私政策</string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="permission_motivation">授予锁屏访问权限是必需的</string>
+    <string name="receiver_description">允许 Privacy Lock 关闭您的屏幕</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">设置按钮</string>
+    <string name="arrow_back_icon_btn_desc">返回按钮</string>
+    <string name="lock_screen_description">测试描述</string>
+    <string name="fab_start_timer">启动计时器按钮</string>
+    <string name="exit_dialog_menu">退出对话框菜单</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">分享应用</string>
+    <string name="shortcut_lock_short_label">强制锁定</string>
+    <string name="shortcut_lock_long_label">强制锁定设备</string>
+    <string name="sharing_text">保护您的数字身份\n下载 Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">隐形元素</string>
+    <string name="card_item_battery_setting">* 电池设置 \n 适用于 Samsung•Xiaomi•Huawei 等设备</string>
+    <string name="card_item_shortcut">应用 \n快捷方式</string>
+    <string name="card_item_tile_quick">快速设置瓷砖 \n</string>
+    <string name="text_before_start">请在开始前选择一个时间选项</string>
+    <string name="text_after_start">恭喜！\n屏幕关闭后，您的设备将在计时器到期后被锁定</string>
+    <string name="menu_delete_app">卸载应用</string>
+    <string name="setting_shake_lock">摇动并锁定</string>
+    <string name="setting_shake_desc">功能将立即保护您</string>
+    <string name="setting_about_us">关于我们</string>
+    <string name="setting_slow_shake">慢</string>
+    <string name="setting_mid_shake">中</string>
+    <string name="setting_fast_shake">快</string>
+    <string name="menu_dev_info">开发者 HardAlgorithm</string>
+    <string name="setting_haptic">触觉反馈</string>
+    <string name="setting_haptic_desc">在交互过程中启用振动</string>
+    <string name="setting_love_ua">❤️ 来自乌克兰</string>
+
+</resources>

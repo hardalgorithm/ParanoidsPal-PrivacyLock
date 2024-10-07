@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Hoş geldiniz</string>
+    <string name="permission_description">Android cihazınızı kullanılmadığında kilitleyerek uygulamalarınızı ve verilerinizi koruyun</string>
+    <string name="permission_text_grand">Yönetici izni ver</string>
+    <string name="policy_accept_text">Uygulamayı kullanarak, Gizlilik Politikasını okuduğunuzu kabul edersiniz</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="permission_motivation">Kilitleme ekranı erişimini sağlamak için izin vermek önemlidir</string>
+    <string name="receiver_description">Privacy Lock\'ın ekranınızı kapatmasına izin verin</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">ayar butonu</string>
+    <string name="arrow_back_icon_btn_desc">geri butonu</string>
+    <string name="lock_screen_description">test açıklaması</string>
+    <string name="fab_start_timer">zamanlayıcı başlatma butonu</string>
+    <string name="exit_dialog_menu">çıkış diyalog menüsü</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Uygulamayı Paylaş</string>
+    <string name="shortcut_lock_short_label">Zorla Kilitle</string>
+    <string name="shortcut_lock_long_label">Cihazı Zorla Kilitle</string>
+    <string name="sharing_text">Dijital Kimliğinizi Koruyun\nParanoid\'s Pal - Privacy Lock\'ı indirin:\n\n</string>
+    <string name="invisible_element">görünmeyen öğe</string>
+    <string name="card_item_battery_setting">* Batarya ayarları \n Samsung•Xiaomi•Huawei vb. cihazlar için</string>
+    <string name="card_item_shortcut">Uygulama \nKısayolları</string>
+    <string name="card_item_tile_quick">Hızlı Ayar Karo \n</string>
+    <string name="text_before_start">Başlamadan önce lütfen bir zaman seçeneği belirleyin</string>
+    <string name="text_after_start">Tebrikler! \nEkran kapandıktan sonra, zamanlayıcı süresi dolduğunda cihazınız kilitlenecektir</string>
+    <string name="menu_delete_app">Uygulamayı Kaldır</string>
+    <string name="setting_shake_lock">Sallama ve Kilitle</string>
+    <string name="setting_shake_desc">Fonksiyon sizi hemen koruyacaktır</string>
+    <string name="setting_about_us">Hakkımızda</string>
+    <string name="setting_slow_shake">Yavaş</string>
+    <string name="setting_mid_shake">Orta</string>
+    <string name="setting_fast_shake">Hızlı</string>
+    <string name="menu_dev_info">Geliştirici HardAlgorithm</string>
+    <string name="setting_haptic">Titreşim Geri Bildirimi</string>
+    <string name="setting_haptic_desc">Etkinlikler sırasında titreşim etkinleştir</string>
+    <string name="setting_love_ua">❤️ Ukrayna\'dan Sevgiler</string>
+
+</resources>

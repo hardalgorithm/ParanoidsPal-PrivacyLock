@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paranoid\'s Pal - Privacy Lock</string>
+    <string name="action_settings">Innstillingar</string>
+    <string name="app_logo_text">Paranoid\'s Pal\nPrivacy Lock</string>
+    <string name="permission_title">Velkomen om bord</string>
+    <string name="permission_description">Lås Android-enheten din når den ikkje er i bruk for å beskytte appane og dataene dine</string>
+    <string name="permission_text_grand">Gje administrasjonsrettar</string>
+    <string name="policy_accept_text">Ved å bruke appen godtek du at du har lese personvernerklæringa</string>
+    <string name="privacy_policy">Personvernerklæring</string>
+    <string name="permission_motivation">Det er viktig å gje tilgang til låseskjermen</string>
+    <string name="receiver_description">Lat Privacy Lock slå av skjermen din</string>
+    <string name="text_logo_first">Paranoid\'s Pal</string>
+    <string name="text_logo_second">Privacy Lock</string>
+    <string name="setting_icon_btn_desc">knappinnstilling</string>
+    <string name="arrow_back_icon_btn_desc">tilbakeknapp</string>
+    <string name="lock_screen_description">test beskrivelse</string>
+    <string name="fab_start_timer">knapp start timer</string>
+    <string name="exit_dialog_menu">avslutt dialogmeny</string>
+    <string name="dot_string">•</string>
+    <string name="menu_share_app">Del app</string>
+    <string name="shortcut_lock_short_label">Tvangs Lås</string>
+    <string name="shortcut_lock_long_label">Tvangs Lås Enhet</string>
+    <string name="sharing_text">Verna den digitale identiteten din\nLast ned Paranoid\'s Pal - Privacy Lock:\n\n</string>
+    <string name="invisible_element">usynleg element</string>
+    <string name="card_item_battery_setting">* Batteriinnstillingar \n for Samsung•Xiaomi•Huawei osv. einingar</string>
+    <string name="card_item_shortcut">App \nSnarvegar</string>
+    <string name="card_item_tile_quick">Tile Rask Innstilling \n</string>
+    <string name="text_before_start">Vel ein tidsalternativ før du startar</string>
+    <string name="text_after_start">Gratulerer! \nNår skjermen slår seg av, vil enheten din bli låst når timeren har gått ut</string>
+    <string name="menu_delete_app">Avinstaller app</string>
+    <string name="setting_shake_lock">Rist og Lås</string>
+    <string name="setting_shake_desc">Funksjonen vil straks beskytte deg</string>
+    <string name="setting_about_us">Om Oss</string>
+    <string name="setting_slow_shake">Sakte</string>
+    <string name="setting_mid_shake">Midt</string>
+    <string name="setting_fast_shake">Rask</string>
+    <string name="menu_dev_info">Utviklar HardAlgorithm</string>
+    <string name="setting_haptic">Haptisk tilbakemelding</string>
+    <string name="setting_haptic_desc">Aktiver vibrasjon under interaksjoner</string>
+    <string name="setting_love_ua">❤️ frå Ukraina</string>
+
+</resources>
