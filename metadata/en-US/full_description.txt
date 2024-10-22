@@ -1,0 +1,15 @@
+ These days, maintaining privacy on our devices has become increasingly challenging. With so much of our personal information stored on our phones, it’s essential to ensure it stays protected, whether from accidental access or malicious intent. Imagine situations where someone unlocks your phone while you're unaware or a scammer forces access. These scenarios are all too real in today's world.
+
+That’s why I developed <i>Paranoid's Pal - Privacy Lock</i> It’s designed to offer an extra layer of security on top of Android’s built-in features. Here’s what makes Paranoid's Pal stand out:
+
+    • Instant Lock with Shake: In urgent situations, just shake your phone, and it locks immediately, ensuring quick protection when you need it.
+
+    • Automatic Screen Lock: Your phone locks automatically once the screen turns off, ensuring it's secure even when you're not actively using it.
+
+<b>Features:</b>
+
+* <i>Quick Tile Settings</i>. Quick Settings are tiles displayed in the Quick Settings panel, representing actions, that users can tap to quickly complete instant lock. 
+* <i>Shortcuts</i>. Helps your quickly start common or recommended tasks within your app.
+* <i>Modern UI</i>. Enjoy a visually appealing and modern interface, following the principles of the Material You design.
+* <i>Works offline and respects your privacy</i>. Paranoid's Pal operates independently without needing an internet connection or online account registration. Your confidential data always remains on your device. Neither the developers nor any third parties can access your information. 
+* <i>Adopted for Android 12</i> SplashScreen, Edge to Edge, Predictive Back navigation, enhancing modern Android UI experience. 
