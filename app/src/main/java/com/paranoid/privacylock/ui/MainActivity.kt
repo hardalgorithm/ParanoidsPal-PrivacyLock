@@ -41,6 +41,7 @@ class MainActivity : AppCompatActivity() {
                 Color.parseColor("#801b1b1b")
             )
         )
+
         createShortcuts(this)
 
         super.onCreate(savedInstanceState)

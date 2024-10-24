@@ -79,9 +79,6 @@ dependencies {
     //Splash Screen androidX
     implementation ("androidx.core:core-splashscreen:1.0.1")
 
-    //Shortcuts
-    implementation("androidx.core:core-google-shortcuts:1.1.0")
-
     //Secure SharedPref
     implementation("androidx.security:security-crypto-ktx:1.1.0-alpha06")
 }

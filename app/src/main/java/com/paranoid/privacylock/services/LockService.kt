@@ -96,7 +96,7 @@ class LockService: Service() {
         stopSelf()
     }
 
-    private inner class LockReceiver : BroadcastReceiver() {
+    public inner class LockReceiver : BroadcastReceiver() {
         override fun onReceive(context: Context?, intent: Intent?) {
             if (context != null && intent != null) {
 
