@@ -15,6 +15,9 @@ width="32%">](https://play.google.com/store/apps/details?id=com.paranoid.privacy
 [<img src="images/banners/fdroid_badge.png"
 alt="Get it on FDroid"
 width="32%">](https://f-droid.org)
+[<img src="images/banners/izzy_ondroid_badge.png"
+alt="Get it on IzzyOnDroid"
+width="32%">](https://apt.izzysoft.de/fdroid/index/apk/com.paranoid.privacylock)
 
 <br />
 
