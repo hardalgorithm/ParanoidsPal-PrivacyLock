@@ -13,6 +13,7 @@ fun enableLockdown(context: Context) {
     if (!devicePolicyManager.isAdminActive(componentName)) {
         val intent = Intent(DevicePolicyManager.ACTION_ADD_DEVICE_ADMIN)
         intent.putExtra(DevicePolicyManager.EXTRA_DEVICE_ADMIN, componentName)
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
         context.startActivity(intent)
         return
     }
