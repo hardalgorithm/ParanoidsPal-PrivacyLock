@@ -1,0 +1,15 @@
+Es ist wichtig, Ihr Android-Gerät zu sperren, wenn Sie es nicht benutzen, damit niemand sonst auf Ihre Apps und Daten zugreifen kann.
+
+Ihr Fingerabdruck - Ihre Sicherheit. Es ist praktisch, aber nicht völlig sicher. Wir haben daran gearbeitet, ein Gleichgewicht zwischen Bequemlichkeit und Sicherheit zu schaffen.
+
+Die Funktion „Bildschirmzeitüberschreitung“ von Android schaltet den Bildschirm Ihres Geräts aus und sperrt ihn nach einer bestimmten Zeitspanne.
+
+Die Funktion „Schütteln und Sperren“ schützt Sie sofort in jeder unerwarteten Situation.
+
+<b>Features:</b>
+
+* <i>Quick Tile Settings</i>. Quick Settings sind Kacheln, die im Quick Settings-Panel angezeigt werden und Aktionen repräsentieren, auf die der Benutzer tippen kann, um sofortige Sperren auszuführen.
+* <i>Shortcuts</i>. Hilft, allgemeine oder empfohlene Aufgaben innerhalb Ihrer Anwendung schnell zu starten.
+* <i>Modern UI</i>. Genießen Sie eine visuell ansprechende und moderne Benutzeroberfläche, die den Grundsätzen des Material You-Designs folgt.
+* <i>Funktioniert offline und respektiert die Privatsphäre</i>. Paranoid's Pal funktioniert unabhängig, ohne dass eine Internetverbindung oder eine Online-Kontoregistrierung erforderlich ist. Ihre vertraulichen Daten bleiben immer auf Ihrem Gerät. Weder die Entwickler noch Dritte können auf Ihre Informationen zugreifen.
+* <i>Angepasst für Android 12</i> SplashScreen, Edge-to-Edge, Predictive Back Navigation, Verbesserung der modernen Android UI Erfahrung.
