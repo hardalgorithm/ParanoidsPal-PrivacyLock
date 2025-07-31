@@ -39,34 +39,24 @@ class SettingFragment : Fragment() {
     private val settingViewModel: SettingViewModel by viewModels()
     private val gestureInterpolator = PathInterpolatorCompat.create(0f, 0f, 0f, 1f)
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-
-    }
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
         _binding = FragmentSettingBinding.inflate(inflater, container, false)
         return binding.root
-
-
     }
 
     @SuppressLint("ClickableViewAccessibility")
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        // Predictive Back with fragments
         val predictiveBackMargin = resources.getDimensionPixelSize(R.dimen.predictive_back_margin)
         var initialTouchY = -1f
         requireActivity().onBackPressedDispatcher.addCallback(
             viewLifecycleOwner,
             object : OnBackPressedCallback(true) {
                 override fun handleOnBackPressed() {
-                    // This invokes the sharedElementReturnTransition, which is
-                    // MaterialContainerTransform.
                     findNavController().popBackStack()
                 }
 
@@ -112,23 +102,23 @@ class SettingFragment : Fragment() {
             )
         )
 
-        binding.dayNightToggle.setTrackTintList(trackStates)
-        binding.dayNightToggle2.setTrackTintList(trackStates)
+        binding.hapticFeedbackToggle.setTrackTintList(trackStates)
+        binding.shakeLockToggle.setTrackTintList(trackStates)
 
-        val defaultSwitchColor = binding.dayNightToggle.thumbTintList
+        val defaultSwitchColor = binding.hapticFeedbackToggle.thumbTintList
 
-        binding.dayNightToggle.setupThumbTint(R.color.orange, defaultSwitchColor)
-        binding.dayNightToggle2.setupThumbTint(R.color.orange, defaultSwitchColor)
+        binding.hapticFeedbackToggle.setupThumbTint(R.color.orange, defaultSwitchColor)
+        binding.shakeLockToggle.setupThumbTint(R.color.orange, defaultSwitchColor)
 
         settingViewModel.isToggleChecked.observe(viewLifecycleOwner) { isChecked ->
-            binding.dayNightToggle2.isChecked = isChecked
+            binding.shakeLockToggle.isChecked = isChecked
         }
 
         settingViewModel.isToggleVibrateChecked.observe(viewLifecycleOwner) { isChecked ->
-            binding.dayNightToggle.isChecked = isChecked
+            binding.hapticFeedbackToggle.isChecked = isChecked
         }
 
-        binding.dayNightToggle.setOnCheckedChangeListener { _, isChecked ->
+        binding.hapticFeedbackToggle.setOnCheckedChangeListener { _, isChecked ->
             if (!settingViewModel.getToggleVibrateChecked()){
                 val vibrator = requireContext().getSystemService(Context.VIBRATOR_SERVICE) as Vibrator
                 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
@@ -144,7 +134,7 @@ class SettingFragment : Fragment() {
             settingViewModel.saveToggleVibrateChecked(isChecked)
         }
 
-        binding.dayNightToggle2.setOnCheckedChangeListener { _, isChecked ->
+        binding.shakeLockToggle.setOnCheckedChangeListener { _, isChecked ->
             if (settingViewModel.getToggleVibrateChecked()){
                 val vibrator = requireContext().getSystemService(Context.VIBRATOR_SERVICE) as Vibrator
                 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
@@ -173,7 +163,6 @@ class SettingFragment : Fragment() {
             binding.seekBar.progress = progress
         }
 
-
         binding.seekBar.setOnSeekBarChangeListener(object : SeekBar.OnSeekBarChangeListener{
             override fun onProgressChanged(seekBar: SeekBar, progress: Int, fromUser: Boolean) {
                 if (settingViewModel.getToggleVibrateChecked()){
@@ -194,8 +183,7 @@ class SettingFragment : Fragment() {
             override fun onStopTrackingTouch(seekBar: SeekBar) {}
         })
 
-
-        binding.materialCardView4.setOnClickListener {
+        binding.aboutUsCard.setOnClickListener {
             if (settingViewModel.getToggleVibrateChecked()){
                 val vibrator = requireContext().getSystemService(Context.VIBRATOR_SERVICE) as Vibrator
 

@@ -13,8 +13,8 @@ android {
         applicationId = "com.paranoid.privacylock"
         minSdk = 28
         targetSdk = 35
-        versionCode = 8
-        versionName = "v1.1.8"
+        versionCode = 9
+        versionName = "v1.1.9"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -79,7 +79,6 @@ dependencies {
     //Dagger - Hilt
     implementation("com.google.dagger:hilt-android:2.48")
     kapt("com.google.dagger:hilt-android-compiler:2.46")
-    //implementation ("org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.10") // Use the latest stable version
 
     //Splash Screen androidX
     implementation ("androidx.core:core-splashscreen:1.0.1")
